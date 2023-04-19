@@ -1,9 +1,9 @@
 ---
-layout: frontpage
-title: Main Page
-tagline: Easy websites with GitHub Pages
-description: Minimal tutorial on making a simple website with GitHub Pages
+layout: default
 ---
 
+Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-oaky i am here.
+There should be whitespace between paragraphs.
+
+There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
