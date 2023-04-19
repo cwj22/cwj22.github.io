@@ -22,6 +22,15 @@
         {% endif %}
 
         <p>{{ site.description | default: site.github.project_tagline }}</p>
+        
+        <p>{$colors = ['red','blue','green','purple']} 
+          {foreach $colors as $color}
+          {$color}<br>
+          {/foreach}</p>
+        
+
+
+
 
         {% if site.github.is_project_page %}
         <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ site.github.repository_nwo }}</small></a></p>
