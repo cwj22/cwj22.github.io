@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: custom
 title: "PAGE2"
 permalink: /page2
 ---
