@@ -22,14 +22,8 @@
         {% endif %}
 
         <p>{{ site.description | default: site.github.project_tagline }}</p>
-        
-        {$colors = ['red','blue','green','purple']} 
-          {foreach $colors as $color}
-          <p>{{$color}}</p>
-          {/foreach}
-        
-
-
+      
+        <p class="view"><a href="{{./page2}}"> site.page2 </a></p>
 
 
         {% if site.github.is_project_page %}
