@@ -1,6 +1,6 @@
 ---
 layout: custom
-permalink: /projects/1
+permalink: /projects/mpc
 ---
 
 

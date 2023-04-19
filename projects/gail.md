@@ -1,6 +1,6 @@
 ---
 layout: custom
-permalink: /projects/3
+permalink: /projects/gail
 ---
 
 
