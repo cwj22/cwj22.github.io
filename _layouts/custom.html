@@ -23,10 +23,10 @@
 
         <p>{{ site.description | default: site.github.project_tagline }}</p>
         
-        <p>{$colors = ['red','blue','green','purple']} 
+        {$colors = ['red','blue','green','purple']} 
           {foreach $colors as $color}
-          {$color}<br>
-          {/foreach}</p>
+          <p>{{$color}}</p>
+          {/foreach}
         
 
 
