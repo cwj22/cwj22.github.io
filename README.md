@@ -1,3 +1,3 @@
-# cwj22.github.io
+# Catherine Weaver's portfolio website.
 
-hello this is my page
+Please see [cwj22.github.io](https://cwj22.github.io/).
