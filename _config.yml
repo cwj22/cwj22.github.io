@@ -1,10 +1,5 @@
 title : Catherine Weaver
-author :
-  name : Catherine Weaver
-  email : catherine22@berkeley.edu
-  github : cwj22
-
-production_url : https://cwj22.github.io
+description: My portfolio
 
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
