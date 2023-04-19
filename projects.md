@@ -16,6 +16,14 @@ learning to advance the capabilities of control algorithms
 
 Autonomous racing has become a popular sub-topic of autonomous driving in recent years and is a complex problem: the vehicle must be controlled at its limit of handling and achieve human-level racing performance. I have worked in collaboration with Sony AI for four years to tackle the challenge of autonomous racing in the  high-fidelity racing simulator Gran Turismo Sport (GTS). However, my planning, control, and machine learning algorithms are not limited to autonomous racing, and in the future I plan to expand into other challenging robotic domains, such as unmanned aerial vehicles, autonomous driving in urban environments, mobile robots, and industrial robotics.
 
+[Model-Based Planning and Control](./projects/1.html)
+
+[Data-driven analysis](./projects/2.html)
+
+[Data-driven end-to-end deep learning](./projects/3.html)
+
+
+
 
 
 
