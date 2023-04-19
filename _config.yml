@@ -1,5 +1,6 @@
 title : Catherine Weaver
 description: My portfolio
+show_github_link: False
 
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
