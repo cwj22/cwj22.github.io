@@ -4,6 +4,8 @@ permalink: /projects/hdphmm
 ---
 
 
+## HDPHMM
+Analyzing the driving style and strategies of human drivers could help us understand the differences between racers and develop more competitive trajectories. \uline{ I employed a Bayesian non-parametric approach based on a hidden Markov model (HMM) to identify primitive racing patterns from multi-dimensional time\-series data of time competition around racetracks.}$^2$ I apply a hierarchical Dirichlet process (HDP) to learn the unknown, hidden dynamical modes in the HMM which correspond to  primitive racing patterns as shown in Figure 5.
 
 
 ## Data-driven planning and control

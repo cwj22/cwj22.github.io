@@ -1,7 +1,6 @@
 title : Catherine Weaver 
 description: Using advanced model-based controls and machine learning to control the world around us.
 show_github_link: False
-page2: Page 2
 
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
