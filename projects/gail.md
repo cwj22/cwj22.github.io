@@ -14,3 +14,4 @@ In my current work, I am exploring generative adversarial imitation learning (GA
 ![Sections](./figures/sections.svg)
 
 <object data="/figures/annotatedplot.pdf" width="1000" height="1000" type='application/pdf'></object>
+

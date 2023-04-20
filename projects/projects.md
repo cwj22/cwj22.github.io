@@ -25,7 +25,7 @@ Autonomous racing has become a popular sub-topic of autonomous driving in recent
 
 [Model-based control](./projects/mpc.html)
 
-[Thermal modeling](./projects/microCHP.html)
+[Thermal system modeling and control](./projects/microCHP.html)
 
 
 
