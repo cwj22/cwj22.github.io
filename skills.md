@@ -12,6 +12,13 @@ Programming Languages and Libraries
 - C/C++ (intermediate)
 - Simulink (intermediate)
 
+Robotics
+- Advanced robotic control 
+- Deep reinforcement learning
+- Machine learning
+- Artificial intelligence
+- Game theory
+
 Control Systems
 - Advanced graduate-level control (2 courses)
 - Nonlinear systems (modeling and control)
@@ -23,11 +30,5 @@ Mathematics
 - Convex optimization
 - Non-convex optimization
 
-Robotics
-- Advanced robotic control 
-- Deep reinforcement learning
-- Machine learning
-- Artificial intelligence
-- Game theory
 
 
