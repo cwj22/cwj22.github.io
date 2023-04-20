@@ -1,6 +1,6 @@
 ---
 layout: custom
-permalink: /skills
+permalink: /education
 ---
 
 ## M.S. Mechanical Engineering @ UC Berkeley
