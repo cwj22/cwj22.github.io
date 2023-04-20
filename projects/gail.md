@@ -5,11 +5,13 @@ permalink: /projects/gail
 
 
 
+## Adversarial Imitation Learning
+### TLDR;
 
-## Data-driven driver analysis and end-to-end learning
 
-
-In my current work, I am exploring generative adversarial imitation learning (GAIL) for autonomous racing, which leverages generative adversarial networks and reinforcement learning to learn a neural network policy that imitates expert demonstrations by sending an action based on the current observed state. A  binary classifier, known as the discriminator, is trained to distinguish between expert trajectories and trajectories sampled by the current policy. In particular, I am applying the Option-GAIL framework$^6$ to the autonomous racing problem by applying hierarchical reinforcement learning to find a high-level option-picking policy and a low-level action-picking policy. Rather than inferring the expert's options using the current policy, I employ HDP-HMM to identify the expert's options from the expert's trajectory. \uline{By leveraging HDP-HMM, the expert's options can be learned prior to training the high and low-level policies, stabilizing training and outperforming policy-inferred options.}
+### Background
+Distribution shift 
+Adversarial imitation learning (AIL) is a method that can combine the strengths of deep reinforcement learning and imitation learning. AIL leverages generative adversarial networks (GANs) and reinforcement learning (RL) to learn a neural network (NN) policy that imitates expert demonstrations by sending an action based on the current observed state. A  binary classifier, known as the discriminator, is trained to distinguish between expert trajectories and trajectories sampled by the current policy. The goal of the discriminator is to determine whether state-action tuples (s,a) came from an expert demonstration or from the policy, and the goal of the policy is to ``trick'' the discriminator into thinking it's actions are the same as the expert demonstrator's actions. 
 
 ![Sections](./figures/sections.svg)
 

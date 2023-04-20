@@ -2,8 +2,8 @@
 layout: custom
 permalink: /education
 ---
-
-### M.S. Mechanical Engineering @ UC Berkeley
+![UC Berkeley](https://en.wikipedia.org/wiki/University_of_California,_Berkeley#/media/File:Seal_of_University_of_California,_Berkeley.svg)
+### M.S. Mechanical Engineering -- UC Berkeley
 May 2021
 - Advisor: Prof. Masayoshi Tomizuka
 - Masters report: _Racing strategy analysis using Bayesian Nonparametric Segmentation and Functional Clustering and Alignment_
