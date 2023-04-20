@@ -8,7 +8,7 @@ permalink: /projects
 My research explores planning and control of complex robotic systems, merging techniques from
 **engineering and model-based control** with **advances in computer science and machine learning.**
 
-In particular, autonomous vehicle racing is a complicated challenge even for many humans to successfully perform. I have worked in collaboration with [Sony AI](https://www.ai.sony/projects/gaming_ai/) _for four years_ to tackle autonomous racing in Gran Turismo Sport (GTS).
+In particular, autonomous vehicle racing is a complicated challenge even for many humans to successfully perform. As a graduate research fellow in the [Mechanical Systems Control Lab](https://msc.berkeley.edu/) at UC Berkeley, I have worked in collaboration with [Sony AI](https://www.ai.sony/projects/gaming_ai/) _for four years_ to tackle autonomous racing in Gran Turismo Sport (GTS).
 
 Please click each link for more description about these efforts:
 
