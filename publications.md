@@ -5,7 +5,7 @@ permalink: /publications
 
 
 ## Publications
-1. Weaver, C., Capobianco, R., Wurman, P., Stone, P. “Real-time Trajectory Generation via Imitation Learning
+1. **Weaver, C.**, Capobianco, R., Wurman, P., Stone, P. “Real-time Trajectory Generation via Imitation Learning
 of Dynamic Movement Primitives for Autonomous Racing” IEEE Robotics and Automation Letters, 2023.
 Awaiting review. [Project description](https://cwj22.github.io/projects/dmp.html)
 2. Su,. S., Hao, C., **Weaver, C.**, Tang, C., Zhan, W. Tomizuka, M. “Double-Iterative Gaussian Process Regression
