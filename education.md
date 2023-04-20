@@ -11,8 +11,8 @@ May 2021
 - **GPA: 4.0/4.0**
 
 
-
-### B.S. Mechanical Engineering @ Purdue University
+![Purdue University](https://1000logos.net/wp-content/uploads/2018/04/Purdue-University-Logo.png)
+### B.S. Mechanical Engineering -- Purdue University
 May 2019
 - Spanish Language Minor
 - Co-op Education Certificate
