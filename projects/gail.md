@@ -7,10 +7,15 @@ permalink: /projects/gail
 ### TLDR;
 - End-to-end deep reinforcement learning (RL) can improve an agent's policy through environment interaction.
 - Generative adversarial imitation learning (GAIL) builds on RL to learn without access to a reward function by exploiting generative adversarial networks (GANs).
-- **_Contribution:_** I improve AIL's performance in GTS by exploring 
+**_Contribution:_** 
+I implemented GAIL for autonomous racing by adding the following features to the imitation library
+- Importing and processing racing trajectories and calculating new state features
+- Adding regulators to the discriminator, including entropy regularization, gradient penalty to enforce Lipshitzness, PU-GAIL
+- Implementing Wasserstein GAIL
+- Options framework for semi-MDPS
+I improve AIL's performance in GTS by exploring 
     - residual policy learning, 
     - exploration with model-based control, 
-    - options framework for semi-MDPS, and 
     - sparse reward guidance.
 
 ### Background

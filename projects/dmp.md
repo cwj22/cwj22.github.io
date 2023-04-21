@@ -4,11 +4,12 @@ permalink: /projects/dmp
 ---
 
 
-![Octocat](./figures/segments.png)
-
-- The proposed Acc. goal DMP extends the target system
+## Dynamic movement primitives for fast online racing trajectories
+### TLDR;
+- Dynamic movement primitives (DMPs) are useful motion primitives that are composed of a target-driven system and an arbritrary nonlinear system modeled by weighted Guassian kernels.
+- I propose an _Acceleration goal_ DMP that extends the a DMP's target system
 to handle accelerating targets.
-- Our Acc. goal DMP generates trajectories with less
+- Our _Acc. goal_ DMP generates trajectories with less
 aggressive acceleration and jerk when transitioning
 between DMPs in sequence than second order DMPs.
 - We generate online DMP trajectories for control in
@@ -18,26 +19,17 @@ line controller fails and yields less tracking error, less
 aggressive control, and the lowest lap-time compared
 to existing methods.
 
-When a controller tracks a fixed (unchanging) reference trajectory, the controller can be unreliable if the state
-deviates significantly from the reference trajectory. Trajectory
-generation from the observed state can mitigate this instability,
-but doing so online can be computationally prohibitive for complex systems. Dynamic Movement Primitives (DMPs) are goal-driven motion
-primitives that generate trajectories driven from the
-current state to a demonstrated trajectory while imitating the
-dynamics of the demonstration. Sequences of DMPs
-joined together can describe long trajectories; however,
-existing methods to sequence DMPs with acceleration dynamics
-require many demonstrations or suffer from increased compu-
-tation as the number of sequences increases. We implement a
-sequence of DMPs imitation learning method that generates
-trajectories from consecutive DMPs using the time duration of
-each motion primitive. My novel \textit{Acc. goal} DMP 
-models non-zero acceleration at junctions of DMP sequences,
-lowering acceleration and jerk in trajectories generated
-from sequences of DMPs compared to existing methods. \uline{My
-framework generates online racing trajectories for an MPC for
-a racecar in GTS, better
-recovering from deviations than standard MPC.}$^4$ Furthermore,
-the novel DMP formulation generates trajectories with less
-online tracking error, less aggressive control commands, and
-faster lap times than other DMP formulations.
+### Background
+_Motivation:_ Online trajectory planning improves a control system's adaptability and performance in complex and dynamic environments. This approach enables control systems to handle planning errors, changes in system dynamics, or external disturbances during operation. Motion primitives are a computationally efficient solution to trajectory generation challenges by using pre-defined basic motion patterns.
+
+Dynamic Movement Primitives (DMPs) generate movements using a non-linear differential equation composed of a target-driven system and a parameterized nonlinear system:
+$$\begin{align}
+\dot{p}_{2}&=\tau \alpha_{g}\left(\beta_{g}\left(g_{m}-p_{1}\right)+\frac{\dot{g}-\dot{p}_{1}}{\tau}\right)+\tau A f(z) \label{eq:kober1}\\
+\dot{p}_{1}&=\tau p_{2}, \label{eq:kober2}
+\end{align}$$
+The nonlinear system has weighting coefficients learned from demonstration data or online during execution. DMPs match the nonlinear behavior of the parameterized system while driving the trajectory towards a target state. Target crossing is a DMP sequencing technique that switches from one DMP to the next after the original time duration of the first primitive has elapsed. It has only been performed with second-order DMPs that cannot model acceleration accurately. Trajectories that incorporate acceleration are crucial for achieving high performance in many domains, including autonomous racing, where accurate acceleration and braking are critical for faster lap times and stable control.
+$$f(z)=\Sigma_{i=1}^{N} \psi_{i}(z) \theta_{i} z$$
+$$\psi_{i}(z)=\frac{\exp \left(-h_{i}\left(z-c_{i}\right)^{2}\right)}{\sum_{j=1}^{N} \exp \left(-h_{j}\left(z-c_{j}\right)^{2}\right)}$$
+
+
+### Proposed _acceleration goal_ DMP
