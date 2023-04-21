@@ -31,7 +31,7 @@ permalink: /skills
     <li>Generative Adversarial Imitation Learning (GAIL)</li>
     <li>Stochastic Gradient Descent</li>
     <li>Least Weighted Regression</li>
-    <ul>
+    </ul>
   </div>
 </div>
 
@@ -41,23 +41,29 @@ permalink: /skills
 <div class="row">
   <div class="column">
 Robotics
-- Advanced robotic control 
-- Deep reinforcement learning
-- Machine learning
-- Artificial intelligence
-- Game theory
+    <ul>
+    <li>Advanced robotic control</li>
+    <li>Deep reinforcement learning</li>
+    <li>Machine learning</li>
+    <li>Artificial intelligence</li>
+    <li>Game theory</li>
+    </ul>
 </div>
   <div class="column">
 Control Systems
-- Advanced graduate-level control (2 courses)
-- Nonlinear systems (modeling and control)
-- Vehicle Dynamics and control
+<ul>
+<li>Advanced graduate-level control (2 courses)</li>
+<li>Nonlinear systems (modeling and control)</li>
+<li>Vehicle Dynamics and control</li>
+</ul>
 
 Mathematics
-- Linear algebra
-- Probability
-- Convex optimization
-- Non-convex optimization
+<ul>
+<li>Linear algebra</li>
+<li>Probability</li>
+<li>Convex optimization</li>
+<li>Non-convex optimization</li>
+</ul>
 </div>
 </div>
 
