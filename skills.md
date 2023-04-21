@@ -8,7 +8,6 @@ permalink: /skills
 ## Skills
 <div class="row">
   <div class="column">
-  
   Programming Languages and Libraries
   <ul>
   <li>Python (advanced)</li>
@@ -21,14 +20,14 @@ permalink: /skills
 
 </div>
   <div class="column">
-
-  Selected Algorithms (non-exhaustive)
+Selected Algorithms (non-exhaustive)
     <ul>
     <li>Model Predictive Control (MPC)</li>
     <li>(Iterative) Least Quadratic Regulator (iLQR and LQR)</li>
     <li>Soft Actor Critic (SAC)</li>
     <li>Proximal Policy Optimization (PPO)</li>
     <li>Generative Adversarial Imitation Learning (GAIL)</li>
+    <li>Option-critic and Option-GAIL</li>
     <li>Stochastic Gradient Descent</li>
     <li>Least Weighted Regression</li>
     </ul>
