@@ -38,7 +38,7 @@ Rather than a reward signal, GAIL uses generative adversarial networks (GANs) to
 
 
 ### Residual Policy Learning
-[Residual policy learning](https://arxiv.org/abs/1812.06298) learns a residual NN policy via RL to improve the actions of a base control policy:
+Residual policy learning ([Silver et al.](https://arxiv.org/abs/1812.06298)) learns a residual NN policy via RL to improve the actions of a base control policy:
 
 <div style="text-align: center;">
 <figure>
@@ -49,7 +49,19 @@ Rather than a reward signal, GAIL uses generative adversarial networks (GANs) to
 
 In vehicle racing, pure-pursuit control is a simple, geometric control algorithm to track a reference path that determines a steering angle based on a lookahead distance on the path. Pure-pursuit control can track paths at low speeds, but is unstable at high speeds and the limits of handling of the vehicle. Residual policy learning can add a NN policy to the output of a pure-pursuit control to improve control performance, while the pure-pursuit control helps guide exploration, speed up training, and outperform NN policies alone. 
 
-We apply GAIL to learn a NN policy on top of a pure-pursuit base controller. The pure-pursuit control speeds up GAIL training, and 
+We apply GAIL to learn a NN policy on top of a pure-pursuit base controller, speeding up GAIL training and improving performance:
+
+<div style="text-align: center;">
+<figure>
+<img src="./figures/gail_residual" alt="GAIL Residual Policy Learning Curve" height="150"/>
+    <figcaption>Fig. 4: GAIL Residual Policy Learning Curve</figcaption>           
+</figure>
+</div>
+
+
+To our knowledge, this is the first time that GAIL has been used for residual policy learning. My preliminary results show that the base control policy reduces required environment interactions, stabilizes learning, and improves control performance.
+
+
 
 ### Options-GAIL for semi-MDPs
 
