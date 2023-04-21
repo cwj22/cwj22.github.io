@@ -26,6 +26,7 @@ Selected Algorithms (non-exhaustive)
     <li>(Iterative) Least Quadratic Regulator (iLQR and LQR)</li>
     <li>Soft Actor Critic (SAC)</li>
     <li>Proximal Policy Optimization (PPO)</li>
+    <li>Inverse Q-Learning </li>
     <li>Generative Adversarial Imitation Learning (GAIL)</li>
     <li>Option-critic and Option-GAIL</li>
     <li>Stochastic Gradient Descent</li>
