@@ -61,7 +61,10 @@ We apply GAIL to learn a NN policy on top of a pure-pursuit base controller, spe
 
 To our knowledge, this is the first time that GAIL has been used for residual policy learning. My preliminary results show that the base control policy reduces required environment interactions, stabilizes learning, and improves control performance.
 
-
+<div class="row">
+  <div class="column">hello</div>
+  <div class="column">hello2</div>
+</div>
 
 ### Options-GAIL for semi-MDPs
 
