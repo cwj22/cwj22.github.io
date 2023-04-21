@@ -35,5 +35,6 @@ $$\psi_{i}(z)=\frac{\exp \left(-h_{i}\left(z-c_{i}\right)^{2}\right)}{\sum_{j=1}
 
  DMPs match the nonlinear behavior of the parameterized system while driving the trajectory towards a target state. Target crossing is a DMP sequencing technique that switches from one DMP to the next after the original time duration of the first primitive has elapsed. It has only been performed with second-order DMPs that cannot model acceleration accurately. Trajectories that incorporate acceleration are crucial for achieving high performance in many domains, including autonomous racing, where accurate acceleration and braking are critical for faster lap times and stable control.
  $a = x$
+     <MATH>&int;_a_^b^{f(x)<over>1+x} dx</MATH>
 
 ### Proposed _acceleration goal_ DMP
