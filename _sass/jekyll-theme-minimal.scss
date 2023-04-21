@@ -56,7 +56,7 @@ a:hover small {
 }
 
 .wrapper {
-  width:1060px;
+  width:1160px;
   margin:0 auto;
 }
 
@@ -283,4 +283,16 @@ footer {
     font-size:12pt;
     color:#444;
   }
+}
+
+
+figure{
+  display: inline-block;
+  margin: 0 auto;
+}
+figure img{
+  vertical-align: top;                 
+}
+figure figcaption{
+  text-align: center;
 }
