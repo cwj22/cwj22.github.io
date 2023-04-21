@@ -4,6 +4,17 @@ permalink: /skills
 ---
 
 ## Skills
+
+| Programming Languages and Libraries        |   Selected Algorithms (non-exhaustive)         | 
+|:-------------|:------------------|
+| Python (advanced)           | Model Predictive Control (MPC) |
+| Pytorch (advanced) | (Iterative) Least Quadratic Regulator (iLQR and LQR)   |
+| Tensorflow (intermediate)           | Soft Actor Critic (SAC)     | 
+| MATLAB (advanced)           | Proximal Policy Optimization (PPO) |
+
+
+
+## Skills
 <div class="row">
   <div class="column">
   
@@ -14,7 +25,7 @@ permalink: /skills
   - MATLAB (advanced)
   - C/C++ (intermediate)
   - Simulink (intermediate)
-  
+
 </div>
   <div class="column">
 
