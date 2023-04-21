@@ -3,20 +3,6 @@ layout: custom
 permalink: /skills
 ---
 
-## Skills
-<ul>
-  <li>Coffee</li>
-  <li>Tea</li>
-  <li>Milk</li>
-</ul>
-
-| Programming Languages and Libraries        |   Selected Algorithms (non-exhaustive)         | 
-|:-------------|:------------------|
-| Python (advanced)           | Model Predictive Control (MPC) |
-| Pytorch (advanced) | (Iterative) Least Quadratic Regulator (iLQR and LQR)   |
-| Tensorflow (intermediate)           | Soft Actor Critic (SAC)     | 
-| MATLAB (advanced)           | Proximal Policy Optimization (PPO) |
-
 
 
 ## Skills
@@ -25,30 +11,27 @@ permalink: /skills
   
   Programming Languages and Libraries
   <ul>
-  <li>Coffee</li>
-  <li>Tea</li>
-  <li>Milk</li>
-</ul>
-  - Python (advanced)
-  - Pytorch (advanced)
-  - Tensorflow (intermediate)
-  - MATLAB (advanced)
-  - C/C++ (intermediate)
-  - Simulink (intermediate)
+  <li>Python (advanced)</li>
+  <li>Pytorch (advanced)</li>
+  <li>Tensorflow (intermediate)</li>
+  <li>MATLAB (advanced)</li>
+  <li>C/C++ (intermediate)</li>
+  <li>Simulink (intermediate)</li>
+  </ul>
 
 </div>
   <div class="column">
 
   Selected Algorithms (non-exhaustive)
-  - Model Predictive Control (MPC)
-  - (Iterative) Least Quadratic Regulator (iLQR and LQR)
-  - Soft Actor Critic (SAC)
-  - Proximal Policy Optimization (PPO)
-  - Generative Adversarial Imitation Learning (GAIL)
-  - Stochastic Gradient Descent
-  - Least Weighted Regression
-
-
+    <ul>
+    <li>Model Predictive Control (MPC)</li>
+    <li>(Iterative) Least Quadratic Regulator (iLQR and LQR)</li>
+    <li>Soft Actor Critic (SAC)</li>
+    <li>Proximal Policy Optimization (PPO)</li>
+    <li>Generative Adversarial Imitation Learning (GAIL)</li>
+    <li>Stochastic Gradient Descent</li>
+    <li>Least Weighted Regression</li>
+    <ul>
   </div>
 </div>
 

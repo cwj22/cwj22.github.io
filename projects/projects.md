@@ -12,13 +12,13 @@ In particular, autonomous vehicle racing is a complicated challenge even for man
 
 Please click each link for more description about these efforts:
 
-[End-to-end deep reinforcement learning](./projects/gail.html)
+[Adversarial imitation with end-to-end deep reinforcement learning](./projects/gail.html)
 
-[Unsupervised racing analysis](./projects/hdphmm.html)
+[Bayesian non-parametric trajectory segmentation and clustering](./projects/hdphmm.html)
 
-[Fast online racing trajectories](./projects/dmp.html)
+[Dynamic movement primitives for fast online racing trajectories](./projects/dmp.html)
 
-[Model-based control](./projects/mpc.html)
+[Model predictive control for racing](./projects/mpc.html)
 
 [Thermal system modeling and control](./projects/microCHP.html)
 
