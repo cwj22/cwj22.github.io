@@ -15,10 +15,12 @@ permalink: /projects/gail
 
 ### Background
 Typical RL algorithms (e.g. SAC, PPO) use the following framework:
+<div style="text-align: center;">
 <figure>
 <img src="./figures/rl_diagram.svg" alt="RL Diagram" height="200"/>
-    <figcaption>**Fig. 1: Typical RL paradigm**</figcaption>           
+    <figcaption>Fig. 1: Typical RL paradigm</figcaption>           
 </figure>
+</div>
 
 The agent observes a state from the environment, uses it's policy to determine the next action, executes that action in the environment, and observes the next state to repeat the process. The environment gives a reward signal that tells how well the agent is doing, such as the forward course progress made since the last state in racing. The agent's policy is occasionally updated to maximize the expected sum of rewards.
 
@@ -26,7 +28,7 @@ Conversely, generative adversarial Imitation Learning (GAIL) assumes there is no
 <div style="text-align: center;">
 <figure>
 <img src="./figures/gail_diagram.svg" alt="RL Diagram" height="200"/>
-    <figcaption>**Fig. 2: Generative Adversarial Imitation Learning**</figcaption>           
+    <figcaption>Fig. 2: Generative Adversarial Imitation Learning</figcaption>           
 </figure>
 </div>
 
