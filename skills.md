@@ -4,6 +4,11 @@ permalink: /skills
 ---
 
 ## Skills
+<ul>
+  <li>Coffee</li>
+  <li>Tea</li>
+  <li>Milk</li>
+</ul>
 
 | Programming Languages and Libraries        |   Selected Algorithms (non-exhaustive)         | 
 |:-------------|:------------------|
@@ -19,6 +24,11 @@ permalink: /skills
   <div class="column">
   
   Programming Languages and Libraries
+  <ul>
+  <li>Coffee</li>
+  <li>Tea</li>
+  <li>Milk</li>
+</ul>
   - Python (advanced)
   - Pytorch (advanced)
   - Tensorflow (intermediate)
