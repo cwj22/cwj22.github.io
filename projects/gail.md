@@ -38,7 +38,12 @@ Rather than a reward signal, GAIL uses generative adversarial networks (GANs) to
 
 
 ### Residual Policy Learning
-
+<div style="text-align: center;">
+<figure>
+<img src="./figures/residual_policy.svg" alt="RL Diagram" height="200"/>
+    <figcaption>Fig. 2: Generative Adversarial Imitation Learning</figcaption>           
+</figure>
+</div>
 
 ### Options-GAIL for semi-MDPs
 
