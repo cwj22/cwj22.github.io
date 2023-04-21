@@ -14,8 +14,10 @@ permalink: /skills
   - MATLAB (advanced)
   - C/C++ (intermediate)
   - Simulink (intermediate)
+  
 </div>
   <div class="column">
+
   Selected Algorithms (non-exhaustive)
   - Model Predictive Control (MPC)
   - (Iterative) Least Quadratic Regulator (iLQR and LQR)
@@ -24,19 +26,24 @@ permalink: /skills
   - Generative Adversarial Imitation Learning (GAIL)
   - Stochastic Gradient Descent
   - Least Weighted Regression
-  -</div>
+
+
+  </div>
 </div>
 
 
 
 ## Coursework
+<div class="row">
+  <div class="column">
 Robotics
 - Advanced robotic control 
 - Deep reinforcement learning
 - Machine learning
 - Artificial intelligence
 - Game theory
-
+</div>
+  <div class="column">
 Control Systems
 - Advanced graduate-level control (2 courses)
 - Nonlinear systems (modeling and control)
@@ -47,6 +54,8 @@ Mathematics
 - Probability
 - Convex optimization
 - Non-convex optimization
+</div>
+</div>
 
 
 
