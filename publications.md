@@ -16,10 +16,10 @@ with Model-based Autonomous Racing” IEEE Transactions on Intelligent Vehicles.
 Micro-CHP Systems” Proceedings of the ASME 2019 Dynamic Systems and Control Conference, ASME, 2019
 October 9-12, Park City, UT. (Energy Systems Technical Committee Best Paper Award). [Related project](https://cwj22.github.io/projects/dmp.html)
 
-## Masters Report
+### Masters Report
 5. **Weaver, C.** and Tomizuka M. “Racing strategy analysis via Bayesian Nonparametric Segmentation and Functional Clustering and Alignment,” Masters Report submitted in fullfilment of M.S. Degree. UC Berkeley, 2021. [Project description](https://cwj22.github.io/projects/hdphmm.html)
 
-## Poster Sessions and Presentations
+### Poster Sessions and Presentations
 6. **Weaver, C.** “Control of Autonomous Racecars” Talk presented at Finding your Research Pathway Seminar,
 Mechanical Engineering Department, UC Berkeley, 2021 April.
 7. **Weaver, C.** and Hao, C. “Trajectory Planning and Model-Predictive Control of Autonomous Racing
