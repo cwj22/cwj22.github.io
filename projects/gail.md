@@ -12,7 +12,9 @@ permalink: /projects/gail
 
 Typical RL algorithms (e.g. SAC, PPO) use the following framework:
 ![RL Diagram](./figures/rl_diagram.svg)
-<img src="rl_diagram.svg" alt="RL Diagram" width="20"/>
+
+<img src="./figures/rl_diagram.svg" alt="RL Diagram" width="20"/>
+
 The agent observes a state from the environment, uses it's policy to determine the next action, executes that action in the environment, and observes the next state to repeat the process. The environment gives a reward signal that tells how well the agent is doing, such as the forward course progress made since the last state in racing. The agent's policy is occasionally updated to maximize the expected sum of rewards.
 
 Conversely, Adversarial Imitation Learning (AIL) assumes there is no such reward signal, but we have access to demonstrations of an expert interacting in the environment:
