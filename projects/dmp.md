@@ -23,26 +23,15 @@ to existing methods.
 _Motivation:_ Online trajectory planning improves a control system's adaptability and performance in complex and dynamic environments. This approach enables control systems to handle planning errors, changes in system dynamics, or external disturbances during operation. Motion primitives are a computationally efficient solution to trajectory generation challenges by using pre-defined basic motion patterns.
 
 Dynamic Movement Primitives (DMPs) model movements as non-linear differential equation:
-$$\begin{align}
-\dot{p}_{2}&=\tau \alpha_{g}\left(\beta_{g}\left(g_{m}-p_{1}\right)+\frac{\dot{g}-\dot{p}_{1}}{\tau}\right)+\tau A f(z) \label{eq:kober1}\\
-\dot{p}_{1}&=\tau p_{2}, \label{eq:kober2}
-\end{align}$$
-Each DMP has a target-driven system ($\alpha_{g}\left(\beta_{g}\left(g_{m}-p_{1}\right)+\frac{\dot{g}-\dot{p}_{1}}{\tau}\right)$) and a parameterized nonlinear system $A f(z)$. The nonlinear system can describe arbitrary motion using weighted Gaussian kernels:
-$$f(z)=\Sigma_{i=1}^{N} \psi_{i}(z) \theta_{i} z$$
-$$\psi_{i}(z)=\frac{\exp \left(-h_{i}\left(z-c_{i}\right)^{2}\right)}{\sum_{j=1}^{N} \exp \left(-h_{j}\left(z-c_{j}\right)^{2}\right)}.$$
-
-<object data='./eqns/dmp/accel_goal.pdf' 
-        type='application/pdf' 
-        width='100%' 
-        height='700px'>
 
 
  DMPs match the nonlinear behavior of the parameterized system while driving the trajectory towards a target state. Target crossing is a DMP sequencing technique that switches from one DMP to the next after the original time duration of the first primitive has elapsed. It has only been performed with second-order DMPs that cannot model acceleration accurately. Trajectories that incorporate acceleration are crucial for achieving high performance in many domains, including autonomous racing, where accurate acceleration and braking are critical for faster lap times and stable control.
  $a = x$
 
-
-
-
- <MATH>&int;_a_^b^{f(x)<over>1+x} dx</MATH>
+<div style="text-align: center;">
+<figure>
+<img src="./eqns/accel_goal.jpg" alt="Accel. goal equations" height="50"/>       
+</figure>
+</div>
 
 ### Proposed _acceleration goal_ DMP
