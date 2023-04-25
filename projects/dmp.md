@@ -36,13 +36,13 @@ Dynamic Movement Primitives (DMPs) model movements as non-linear differential eq
 
 <div style="text-align: center;">
 <figure>
-<img src="./eqns/dmp/transformation.svg" alt="2nd Order DMP equations" height="100"/>       
+<img src="./eqns/dmp/transformation.svg" alt="2nd Order DMP equations" height="150"/>       
 </figure>
 </div>
 
 <div style="text-align: center;">
 <figure>
-<img src="./eqns.dmp/dmp3.svg" alt="3rd Order DMP equations" height="170"/>       
+<img src="./eqns/dmp/dmp3.svg" alt="3rd Order DMP equations" height="170"/>       
 </figure>
 </div>
 
