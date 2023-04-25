@@ -20,29 +20,33 @@ aggressive control, and the lowest lap-time compared
 to existing methods.
 
 ### Background
-_Motivation:_ Online trajectory planning improves a control system's adaptability and performance in complex and dynamic environments. This approach enables control systems to handle planning errors, changes in system dynamics, or external disturbances during operation. Motion primitives are a computationally efficient solution to trajectory generation challenges by using pre-defined basic motion patterns.
+_Motivation:_ Online trajectory planning improves a system's adaptability and performance in complex and dynamic environments. Motion primitives are a computationally efficient solution to trajectory generation challenges by using pre-defined basic motion patterns.
 
-Dynamic Movement Primitives (DMPs) model movements as non-linear differential equation:
+Dynamic Movement Primitives (DMPs) model movements as non-linear differential equations. The original second order DMP was proposed by [Kober et al.](https://ieeexplore.ieee.org/document/5509672/):
+
+<div style="text-align: center;">
+<figure>
+<img src="./eqns/dmp/dmp2.svg" alt="2nd order DMP equations" height="200"/>       
+</figure>
+</div>
+
+The DMP is composed of two systems: the <font color="#1212FF">goal-attracted system </font>driven toward the target state and the transformation function that describes the arbitrary dynamics of the trajectory.
 
 
- DMPs match the nonlinear behavior of the parameterized system while driving the trajectory towards a target state. Target crossing is a DMP sequencing technique that switches from one DMP to the next after the original time duration of the first primitive has elapsed. It has only been performed with second-order DMPs that cannot model acceleration accurately. Trajectories that incorporate acceleration are crucial for achieving high performance in many domains, including autonomous racing, where accurate acceleration and braking are critical for faster lap times and stable control.
+Target crossing is a DMP sequencing technique that switches from one DMP to the next after the original time duration of the first primitive has elapsed. It has only been performed with second-order DMPs that cannot model acceleration accurately. Trajectories that incorporate acceleration are crucial for achieving high performance in many domains, including autonomous racing, where accurate acceleration and braking are critical for faster lap times and stable control.
  $a = x$
 
+
+
 <div style="text-align: center;">
 <figure>
-<img src="./eqns/dmp/dmp2.svg" alt="Accel. goal equations" height="200"/>       
+<img src="./eqns/dmp/transformation.svg" alt="2nd Order DMP equations" height="140"/>       
 </figure>
 </div>
 
 <div style="text-align: center;">
 <figure>
-<img src="./eqns/dmp/transformation.svg" alt="2nd Order DMP equations" height="150"/>       
-</figure>
-</div>
-
-<div style="text-align: center;">
-<figure>
-<img src="./eqns/dmp/dmp3.svg" alt="3rd Order DMP equations" height="170"/>       
+<img src="./eqns/dmp/dmp3.svg" alt="3rd Order DMP equations" height="180"/>       
 </figure>
 </div>
 
