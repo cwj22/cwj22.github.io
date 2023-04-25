@@ -8,7 +8,7 @@ permalink: /skills
 ## Skills
 <div class="row">
   <div class="column">
-  Programming Languages and Libraries
+  <b> Programming Languages and Libraries </b>
   <ul>
   <li>Python (advanced)</li>
   <li>Pytorch (advanced)</li>
@@ -20,7 +20,7 @@ permalink: /skills
 
 </div>
   <div class="column">
-Selected Algorithms (non-exhaustive)
+<b> Selected Algorithms </b>
     <ul>
     <li>Model Predictive Control (MPC)</li>
     <li>(Iterative) Least Quadratic Regulator (iLQR and LQR)</li>
@@ -40,7 +40,7 @@ Selected Algorithms (non-exhaustive)
 ## Coursework
 <div class="row">
   <div class="column">
-Robotics
+<b> Robotics </b>
     <ul>
     <li>Advanced robotic control</li>
     <li>Deep reinforcement learning</li>
@@ -50,14 +50,14 @@ Robotics
     </ul>
 </div>
   <div class="column">
-Control Systems
+<b> Control Systems</b>
 <ul>
 <li>Advanced graduate-level control (2 courses)</li>
 <li>Nonlinear systems (modeling and control)</li>
 <li>Vehicle Dynamics and control</li>
 </ul>
 
-Mathematics
+<b> Mathematics </b>
 <ul>
 <li>Linear algebra</li>
 <li>Probability</li>
