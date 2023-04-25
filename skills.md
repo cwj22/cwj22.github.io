@@ -18,9 +18,18 @@ permalink: /skills
   <li>Simulink (intermediate)</li>
   </ul>
 
+  <b> Skills </b>
+  <ul>
+  <li> Environment control (conda, Docker) </li>
+  <li> Version control with unit tests (Github) </li>
+  <li> Coding style guidelines and typing (MyPy)
+  <li> Cloud-based training (AWS) </li>
+  <li> GPU training (CUDA) </li>
+  </ul>
+
 </div>
   <div class="column">
-<b> Selected Algorithms </b>
+<b> Algorithms </b>
     <ul>
     <li>Model Predictive Control (MPC)</li>
     <li>(Iterative) Least Quadratic Regulator (iLQR and LQR)</li>
