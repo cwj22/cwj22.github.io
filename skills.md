@@ -22,7 +22,7 @@ permalink: /skills
   <ul>
   <li> Environment control (conda, Docker) </li>
   <li> Version control with unit tests (Github) </li>
-  <li> Coding style guidelines and typing (MyPy)
+  <li> Coding style guidelines and typing (MyPy) </li>
   <li> Cloud-based training (AWS) </li>
   <li> GPU training (CUDA) </li>
   </ul>
