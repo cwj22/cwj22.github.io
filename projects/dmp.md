@@ -53,9 +53,9 @@ Here I propose two changes to the original DMP:
 2. Adapt the moving target system to include acceleration to allow non-zero acceleration at target states.
 
 ### Trajectory Modeling as a Sequence of DMPs
-Armed with the _acceleration_ goal DMP, I can now accurately model a racing trajectory as a sequence of many DMPs.
+Armed with the _acceleration_ goal DMP, I can now accurately model a racing trajectory as a sequence of motion primtiives (DMPs):
 <div style="text-align: center;">
 <figure>
-<img src="./figures/sections.svg" alt="DMP sections" height="280"/>       
+<img src="./figures/annotatedsections.svg" alt="DMP sections" height="280"/>       
 </figure>
 </div>
