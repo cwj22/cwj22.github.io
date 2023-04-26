@@ -56,7 +56,7 @@ Here I propose two changes to the original DMP:
 Armed with the _acceleration goal_ DMP, I can now accurately model a racing trajectory as a sequence of motion primitives (DMPs):
 <div style="text-align: center;">
 <figure>
-<img src="./figures/annotatedsections.svg" alt="DMP sections" height="380" 
+<img src="./figures/annotatedsections.svg" alt="DMP sections" height="330" 
 />
 </figure>
 </div>

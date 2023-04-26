@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="291.587pt" height="113.808pt" viewBox="0 0 291.587 113.808">
+<defs>
+<clipPath id="clip_0">
+<path transform="matrix(1,0,0,-1,-63.971,352.78303)" d="M0 0H419.528V595.276H0Z"/>
+</clipPath>
+</defs>
+<g clip-path="url(#clip_0)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 -63.971 352.78303)" font-size="9.9626" font-family="CMR10"><tspan y="-333.304" x="94.398 100.76411 105.74541 111.284618 114.054218 121.79515 126.77645 133.96945 141.7901 152.31061 158.53723 163.51853 172.37528 179.56827 182.33788 190.63672 195.06012 202.3129 205.36145 210.34275 217.56563 224.35016 229.33145 233.4759 242.33266 248.69876 252.6041 258.14329 261.19184 265.61524 270.03865 273.9141 278.8954 282.80073 291.3785 300.51423 304.93763 308.81309 314.3523 319.61256">Table1:GTLapTimesforEachTrajectoryMethod</tspan></text>
+<path transform="matrix(1,0,0,-1,7.056999,22.61203)" stroke-width=".398" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M0 0H277.472"/>
+<path transform="matrix(1,0,0,-1,7.056999,34.76602)" stroke-width=".398" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M0 0V11.955"/>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 -63.971 352.78303)" font-size="9.9626" font-family="CMBX10" font-weight="bold"><tspan y="-321.604" x="80.824 87.83766 92.55994 98.76663 102.263507 107.513797 112.60468 117.05797 122.78646 127.508739 137.38167 148.25087 153.50116 157.95444 164.32054 170.36785">TrajectoryMethod</tspan></text>
+<path transform="matrix(1,0,0,-1,118.742,34.76602)" stroke-width=".398" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M0 0V11.955"/>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 -63.971 352.78303)" font-size="9.9626" font-family="CMBX10" font-weight="bold"><tspan y="-321.604" x="201.019 211.89817 215.07624">Min</tspan></text>
+<path transform="matrix(1,0,0,-1,175.77701,34.76602)" stroke-width=".398" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M0 0V11.955"/>
+<path transform="matrix(1,0,0,-1,248.892,34.76602)" stroke-width=".398" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M0 0V11.955"/>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 -63.971 352.78303)" font-size="9.9626" font-family="CMBX10" font-weight="bold"><tspan y="-321.604" x="318.84 332.19984 337.9283">#of</tspan></text>
+<path transform="matrix(1,0,0,-1,284.529,34.76602)" stroke-width=".398" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M0 0V11.955"/>
+<path transform="matrix(1,0,0,-1,7.056999,46.72101)" stroke-width=".398" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M0 0V11.955"/>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 -63.971 352.78303)" font-size="9.9626" font-family="CMBX10" font-weight="bold"><tspan y="-309.648" x="102.24 110.51892 113.69699 118.150279 128.33206 139.21123 147.04183">withMPC</tspan></text>
+<path transform="matrix(1,0,0,-1,118.742,46.72101)" stroke-width=".398" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M0 0V11.955"/>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 -63.971 352.78303)" font-size="9.9626" font-family="CMBX10" font-weight="bold"><tspan y="-309.648" x="188.69 195.58412 201.15322 207.51932 211.33499 215.78827 218.96634 228.51052">Lap-time</tspan></text>
+<path transform="matrix(1,0,0,-1,175.77701,46.72101)" stroke-width=".398" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M0 0V11.955"/>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 -63.971 352.78303)" font-size="9.9626" font-family="CMBX10" font-weight="bold"><tspan y="-309.648" x="245.726 256.60517 261.85548 267.42457 277.60633 282.0596 288.4257 292.87898 299.24507 302.42314">Mean(Std.)</tspan></text>
+<path transform="matrix(1,0,0,-1,248.892,46.72101)" stroke-width=".398" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M0 0V11.955"/>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 -63.971 352.78303)" font-size="9.9626" font-family="CMBX10" font-weight="bold"><tspan y="-309.648" x="319.009 325.90315 331.47224 337.83833">Laps</tspan></text>
+<path transform="matrix(1,0,0,-1,284.529,46.72101)" stroke-width=".398" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M0 0V11.955"/>
+<path transform="matrix(1,0,0,-1,7.056999,46.920015)" stroke-width=".398" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M0 0H277.472"/>
+<path transform="matrix(1,0,0,-1,7.056999,59.075014)" stroke-width=".398" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M0 0V11.955"/>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 -63.971 352.78303)" font-size="9.9626" font-family="CMR10"><tspan y="-297.295" x="92.388 97.3693 102.90851 111.76526 116.74656 120.6519 126.19111 130.6145 137.84735 145.45877 154.59449">2ndorderDMP</tspan></text>
+<path transform="matrix(1,0,0,-1,118.742,59.075014)" stroke-width=".398" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M0 0V11.955"/>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 -63.971 352.78303)" font-size="9.9626" font-family="CMR10"><tspan y="-297.295" x="194.903 199.8843 204.86559 209.84688 212.61649 217.59778 222.57907">155.733</tspan></text>
+<path transform="matrix(1,0,0,-1,175.77701,59.075014)" stroke-width=".398" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M0 0V11.955"/>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 -63.971 352.78303)" font-size="9.9626" font-family="CMR10"><tspan y="-297.295" x="250.569 255.5503 260.5316 265.51289 268.28248 276.5813 280.45677 285.43806 288.20765 293.18894 298.17024">158.4(2.18)</tspan></text>
+<path transform="matrix(1,0,0,-1,248.892,59.075014)" stroke-width=".398" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M0 0V11.955"/>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 -63.971 352.78303)" font-size="9.9626" font-family="CMR10"><tspan y="-297.295" x="328.191">4</tspan></text>
+<path transform="matrix(1,0,0,-1,284.529,59.075014)" stroke-width=".398" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M0 0V11.955"/>
+<path transform="matrix(1,0,0,-1,7.056999,71.03003)" stroke-width=".398" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M0 0V11.955"/>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 -63.971 352.78303)" font-size="9.9626" font-family="CMR10"><tspan y="-285.34" x="94.076 100.72105 105.14444 107.91404 115.10703 120.08833 125.06963 130.05094 136.13809 143.74951 152.88523">Vel.goalDMP</tspan></text>
+<path transform="matrix(1,0,0,-1,118.742,71.03003)" stroke-width=".398" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M0 0V11.955"/>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 -63.971 352.78303)" font-size="9.9626" font-family="CMR10"><tspan y="-285.34" x="197.393 202.3743 207.35559 212.33689 215.10649 220.08779">133.95</tspan></text>
+<path transform="matrix(1,0,0,-1,175.77701,71.03003)" stroke-width=".398" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M0 0V11.955"/>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 -63.971 352.78303)" font-size="9.9626" font-family="CMR10"><tspan y="-285.34" x="248.078 253.0593 258.0406 263.02189 265.79148 270.77278 279.0716 282.94706 287.92835 290.69795 295.67924 300.66053">136.87(1.34)</tspan></text>
+<path transform="matrix(1,0,0,-1,248.892,71.03003)" stroke-width=".398" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M0 0V11.955"/>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 -63.971 352.78303)" font-size="9.9626" font-family="CMR10"><tspan y="-285.34" x="325.7 330.6813">28</tspan></text>
+<path transform="matrix(1,0,0,-1,284.529,71.03003)" stroke-width=".398" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M0 0V11.955"/>
+<path transform="matrix(1,0,0,-1,7.056999,82.985019)" stroke-width=".398" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M0 0V11.955"/>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 -63.971 352.78303)" font-size="9.9626" font-family="CMR10"><tspan y="-273.384" x="92.831 100.30295 104.72634 109.149738 116.35269 121.33399 126.31529 131.29659 137.38375 144.99517 154.13088">Acc.goalDMP</tspan></text>
+<path transform="matrix(1,0,0,-1,118.742,82.985019)" stroke-width=".398" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M0 0V11.955"/>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 -63.971 352.78303)" font-size="9.9626" font-family="CMR10"><tspan y="-273.384" x="194.903 199.8843 204.86559 209.84688 212.61649 217.59778 222.57907">132.966</tspan></text>
+<path transform="matrix(1,0,0,-1,175.77701,82.985019)" stroke-width=".398" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M0 0V11.955"/>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 -63.971 352.78303)" font-size="9.9626" font-family="CMR10"><tspan y="-273.384" x="248.078 253.0593 258.0406 263.02189 265.79148 270.77278 279.0716 282.94706 287.92835 290.69795 295.67924 300.66053">134.75(0.85)</tspan></text>
+<path transform="matrix(1,0,0,-1,248.892,82.985019)" stroke-width=".398" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M0 0V11.955"/>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 -63.971 352.78303)" font-size="9.9626" font-family="CMR10"><tspan y="-273.384" x="325.7 330.6813">29</tspan></text>
+<path transform="matrix(1,0,0,-1,284.529,82.985019)" stroke-width=".398" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M0 0V11.955"/>
+<path transform="matrix(1,0,0,-1,7.056999,94.94003)" stroke-width=".398" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M0 0V11.955"/>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 -63.971 352.78303)" font-size="9.9626" font-family="CMR10"><tspan y="-261.429" x="88.749 97.884708 104.669239 111.862239 119.61314 126.11871 128.88832 134.14858 138.57198 147.42873 154.7612 159.1846 162.23316">MPC+FixedRef.</tspan></text>
+<path transform="matrix(1,0,0,-1,118.742,94.94003)" stroke-width=".398" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M0 0V11.955"/>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 -63.971 352.78303)" font-size="9.9626" font-family="CMR10"><tspan y="-261.429" x="194.903 199.8843 204.86559 209.84688 212.61649 217.59778 222.57907">130.283</tspan></text>
+<path transform="matrix(1,0,0,-1,175.77701,94.94003)" stroke-width=".398" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M0 0V11.955"/>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 -63.971 352.78303)" font-size="9.9626" font-family="CMR10"><tspan y="-261.429" x="248.078 253.0593 258.0406 263.02189 265.79148 270.77278 279.0716 282.94706 287.92835 290.69795 295.67924 300.66053">131.87(0.92)</tspan></text>
+<path transform="matrix(1,0,0,-1,248.892,94.94003)" stroke-width=".398" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M0 0V11.955"/>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 -63.971 352.78303)" font-size="9.9626" font-family="CMR10"><tspan y="-261.429" x="325.7 330.6813">21</tspan></text>
+<path transform="matrix(1,0,0,-1,284.529,94.94003)" stroke-width=".398" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M0 0V11.955"/>
+<path transform="matrix(1,0,0,-1,7.056999,95.140018)" stroke-width=".398" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M0 0H277.472"/>
+<path transform="matrix(1,0,0,-1,7.056999,107.29402)" stroke-width=".398" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M0 0V11.955"/>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 -63.971 352.78303)" font-size="9.9626" font-family="CMTI10" font-style="italic"><tspan y="-249.076" x="122.454 128.95958 132.0181 136.64075 140.71546 149.37294 156.1276 160.71039 163.7689 168.3517 172.03787 176.62067 182.21965 186.29436 194.44376 200.18222 205.2731 210.36399 213.93059 217.23818 220.29669 228.4461">FixedReferenceLap-time</tspan></text>
+<path transform="matrix(1,0,0,-1,175.77701,107.29402)" stroke-width=".398" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M0 0V11.955"/>
+<path transform="matrix(1,0,0,-1,175.77701,107.29402)" stroke-width=".398" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M0 0V11.955"/>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 -63.971 352.78303)" font-size="9.9626" font-family="CMTI10" font-style="italic"><tspan y="-249.076" x="245.726 250.8169 255.90778 260.99867 264.0572">114.5</tspan></text>
+<path transform="matrix(1,0,0,-1,284.529,107.29402)" stroke-width=".398" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M0 0V11.955"/>
+<path transform="matrix(1,0,0,-1,7.056999,107.49303)" stroke-width=".398" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M0 0H277.472"/>
+</g>
+</svg>
