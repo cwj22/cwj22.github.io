@@ -56,6 +56,6 @@ Here I propose two changes to the original DMP:
 Armed with the _acceleration_ goal DMP, I can now accurately model a racing trajectory as a sequence of many DMPs.
 <div style="text-align: center;">
 <figure>
-<img src="./figures/sections.svg" alt="DMP sections" height="180"/>       
+<img src="./figures/sections.svg" alt="DMP sections" height="280"/>       
 </figure>
 </div>
