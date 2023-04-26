@@ -56,9 +56,14 @@ Here I propose two changes to the original DMP:
 Armed with the _acceleration_ goal DMP, I can now accurately model a racing trajectory as a sequence of motion primtiives (DMPs):
 <div style="text-align: center;">
 <figure>
-<img src="./figures/annotatedsections.svg" alt="DMP sections" height="380" width="380"
-        object-fit="cover"    
+<img src="./figures/annotatedsections.svg" alt="DMP sections" height="380" 
 />
 </figure>
 </div>
 Each DMP section is described by a set of weights, $\Theta_i$, and the final or goal state, $G_i$.
+<div style="text-align: center;">
+<figure>
+<img src="./figures/algorithm.svg" alt="DMP Trajectory Generation Algorithm" height="580" 
+/>
+</figure>
+</div>
