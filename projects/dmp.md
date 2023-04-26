@@ -73,7 +73,25 @@ We employ a model predictive controller (similar to [my other project](https://c
 
 ### Control Experiments in Gran Turismo Sport
 #### Comparison of DMP methods at different track locations
+<div style="text-align: center;">
+<figure>
+<img src="./figures/cornercomparison.svg" alt="DMP Trajectory Generation Algorithm" height="320" 
+/>
+</figure>
+</div>
 
 #### Comparison of tracking error and control commands
+<div style="text-align: center;">
+<figure>
+<img src="./figures/errorbars.svg" alt="DMP Trajectory Generation Algorithm" height="320" 
+/>
+</figure>
+</div>
 
 #### Lap time comparison
+<div style="text-align: center;">
+<figure>
+<img src="./figures/laptimes.svg" alt="DMP Trajectory Generation Algorithm" height="320" 
+/>
+</figure>
+</div>
