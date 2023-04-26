@@ -18,8 +18,8 @@ GranTurismo Sport.
 line controller fails and yields less tracking error, less
 aggressive control, and the lowest lap-time compared
 to existing methods.
-
-### Background
+### Trajectory Generation from a Sequence of DMPs
+#### Background
 _Motivation:_ Online trajectory planning improves a system's adaptability and performance in complex and dynamic environments. Motion primitives are a computationally efficient solution to trajectory generation challenges by using pre-defined basic motion patterns.
 
 Dynamic Movement Primitives (DMPs) model movements as non-linear differential equations. The original second order DMP was proposed by [Kober et al.](https://ieeexplore.ieee.org/document/5509672/):
@@ -41,7 +41,7 @@ The DMP is composed of two systems: the <font color="#1212FF">goal-attracted sys
 For more information on DMPs, see the review by [Saveriano et al.](https://arxiv.org/pdf/2102.03861.pdf).
 
 
-### Proposed _acceleration goal_ DMP
+#### Proposed _acceleration goal_ DMP
 Racing trajectories require accurate dynamics for optimal performance. Therefore I raise the order of the DMP:
 <div style="text-align: center;">
 <figure>
@@ -52,18 +52,18 @@ Here I propose two changes to the original DMP:
 1. Raise the order of the DMP dynamic equation to the third order
 2. Adapt the moving target system to include acceleration to allow non-zero acceleration at target states.
 
-### Trajectory Generation from a Sequence of DMPs
+#### Trajectory generation algorithm
 Armed with the _acceleration goal_ DMP, I can now accurately model a racing trajectory as a sequence of motion primitives (DMPs):
 <div style="text-align: center;">
 <figure>
-<img src="./figures/annotatedsections.svg" alt="DMP sections" height="330" 
+<img src="./figures/annotatedsections.svg" alt="DMP sections" height="280" 
 />
 </figure>
 </div>
 Each DMP section is described by a set of weights, $\Theta_j$, and the final or goal state, $G_j$. This allows me to generate new trajectories, $P_G$, of duration $T_G$ using Algorithm 1.
 <div style="text-align: center;">
 <figure>
-<img src="./figures/algorithm.svg" alt="DMP Trajectory Generation Algorithm" height="380" 
+<img src="./figures/algorithm.svg" alt="DMP Trajectory Generation Algorithm" height="320" 
 />
 </figure>
 </div>
@@ -72,3 +72,8 @@ Each DMP section is described by a set of weights, $\Theta_j$, and the final or 
 We employ a model predictive controller (similar to [my other project](https://cwj22.github.io/projects/mpc.html)) to generate the steering and throttle command to track the generated reference trajectories. 
 
 ### Control Experiments in Gran Turismo Sport
+#### Comparison of DMP methods at different track locations
+
+#### Comparison of tracking error and control commands
+
+#### Lap time comparison
