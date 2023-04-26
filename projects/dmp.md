@@ -52,18 +52,23 @@ Here I propose two changes to the original DMP:
 1. Raise the order of the DMP dynamic equation to the third order
 2. Adapt the moving target system to include acceleration to allow non-zero acceleration at target states.
 
-### Trajectory Modeling as a Sequence of DMPs
-Armed with the _acceleration_ goal DMP, I can now accurately model a racing trajectory as a sequence of motion primtiives (DMPs):
+### Trajectory Generation from a Sequence of DMPs
+Armed with the _acceleration goal_ DMP, I can now accurately model a racing trajectory as a sequence of motion primitives (DMPs):
 <div style="text-align: center;">
 <figure>
 <img src="./figures/annotatedsections.svg" alt="DMP sections" height="380" 
 />
 </figure>
 </div>
-Each DMP section is described by a set of weights, $\Theta_i$, and the final or goal state, $G_i$.
+Each DMP section is described by a set of weights, $\Theta_j$, and the final or goal state, $G_j$. This allows me to generate new trajectories, $P_G$, of duration $T_G$ using Algorithm 1.
 <div style="text-align: center;">
 <figure>
-<img src="./figures/algorithm.svg" alt="DMP Trajectory Generation Algorithm" height="580" 
+<img src="./figures/algorithm.svg" alt="DMP Trajectory Generation Algorithm" height="380" 
 />
 </figure>
 </div>
+ Specifically, we find the index, $m$, of the closest demonstration waypoint to the observed position; this waypoint corresponds to the $j$-th segment and a reference time in the segment $t_m\in[0,T_S)$. The DMP equations give the derivative of generated trajectory at the desired time steps, starting from reference time $t_m$ (Line 8). If the generated trajectory is integrated to the end (in time) of the current segment (Line 10), it will switch to the DMP information of the following segment ($G_{j+1}, \Theta_{j+1}$), and the reference time is reset to start at the beginning of the subsequent segment (Line 13}).
+
+We employ a model predictive controller (similar to [my other project](https://cwj22.github.io/projects/mpc.html)) to generate the steering and throttle command to track the generated reference trajectories. 
+
+### Control Experiments in Gran Turismo Sport
