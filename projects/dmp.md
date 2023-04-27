@@ -22,6 +22,7 @@ to existing methods.
 
 ### Trajectory Generation from a Sequence of DMPs
 #### Background
+<p style="margin-left: 2.5em;padding: 0 7em 2em 0;border-width: 2px; border-color: black; border-style:solid;">Example of a paragraph with margin and padding.</p>
 _Motivation:_ Online trajectory planning improves a system's adaptability and performance in complex and dynamic environments. Motion primitives are a computationally efficient solution to trajectory generation challenges by using pre-defined basic motion patterns.
 
 Dynamic Movement Primitives (DMPs) model movements as non-linear differential equations. The original second order DMP was proposed by [Kober et al.](https://ieeexplore.ieee.org/document/5509672/):
@@ -66,8 +67,9 @@ Each DMP section is described by a set of weights, $\Theta_j$, and the final or 
 <div>
 <img src="./figures/algorithm.svg" alt="DMP Trajectory Generation Algorithm" height="320" align="left" hspace=50
 />
- Specifically, we find the index, $m$, of the closest demonstration waypoint to the observed position; this waypoint corresponds to the $j$-th segment and a reference time in the segment $t_m\in[0,T_S)$. The DMP equations give the derivative of generated trajectory at the desired time steps, starting from reference time $t_m$ (Line 8). If the generated trajectory is integrated to the end (in time) of the current segment (Line 10), it will switch to the DMP information of the following segment ($G_{j+1}, \Theta_{j+1}$), and the reference time is reset to start at the beginning of the subsequent segment (Line 13}).
 </div>
+Specifically, we find the index, $m$, of the closest demonstration waypoint to the observed position; this waypoint corresponds to the $j$-th segment and a reference time in the segment $t_m\in[0,T_S)$. The DMP equations give the derivative of generated trajectory at the desired time steps, starting from reference time $t_m$ (Line 8). If the generated trajectory is integrated to the end (in time) of the current segment (Line 10), it will switch to the DMP information of the following segment ($G_{j+1}, \Theta_{j+1}$), and the reference time is reset to start at the beginning of the subsequent segment (Line 13}).
+
 
 We employ a model predictive controller (similar to [my other project](https://cwj22.github.io/projects/mpc.html)) to generate the steering and throttle command to track the generated reference trajectories. 
 
@@ -78,7 +80,7 @@ We employ a model predictive controller (similar to [my other project](https://c
 />
 </figure>
 </div>
-#### Results
+#### Results: Which methods can recover from the various starting points?
 <div style="text-align: center;">
 <figure>
 <img src="./figures/bargraph_alltrials.svg" alt="DMP Trajectory Generation Algorithm" height="220" 
@@ -94,7 +96,7 @@ We employ a model predictive controller (similar to [my other project](https://c
 </figure>
 </div>
 
-#### Experiment 1: Comparison of tracking error and control commands
+#### Comparison of tracking error and control commands
 The first experiment tests how well the vehicle can recover from states _away_ from a fixed reference trajectory by using the online DMP trajectories.
 <img src="./figures/errorbars.svg" alt="DMP Trajectory Generation Algorithm" height="400" align="left" hspace=25
 />
