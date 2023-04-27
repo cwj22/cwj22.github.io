@@ -22,7 +22,7 @@ to existing methods.
 
 ### Trajectory Generation from a Sequence of DMPs
 #### Background
-<p style="margin-left: 2.5em;padding: 0 7em 2em 0;border-width: 2px; border-color: black; border-style:solid;">Example of a paragraph with margin and padding.</p>
+<p style="margin-left: .5em;padding: 2em 7em 2em 0;border-width: 4px; border-color: blue; border-style:solid;">Example of a paragraph with margin and padding.</p>
 _Motivation:_ Online trajectory planning improves a system's adaptability and performance in complex and dynamic environments. Motion primitives are a computationally efficient solution to trajectory generation challenges by using pre-defined basic motion patterns.
 
 Dynamic Movement Primitives (DMPs) model movements as non-linear differential equations. The original second order DMP was proposed by [Kober et al.](https://ieeexplore.ieee.org/document/5509672/):
