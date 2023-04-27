@@ -63,13 +63,11 @@ Armed with the _acceleration goal_ DMP, I can now accurately model a racing traj
 </figure>
 </div>
 Each DMP section is described by a set of weights, $\Theta_j$, and the final or goal state, $G_j$. This allows me to generate new trajectories, $P_G$, of duration $T_G$ using Algorithm 1.
-<div style="text-align: center;">
-<figure>
-<img src="./figures/algorithm.svg" alt="DMP Trajectory Generation Algorithm" height="320" 
+<div>
+<img src="./figures/algorithm.svg" alt="DMP Trajectory Generation Algorithm" height="320" align="left" hspace=50
 />
-</figure>
-</div>
  Specifically, we find the index, $m$, of the closest demonstration waypoint to the observed position; this waypoint corresponds to the $j$-th segment and a reference time in the segment $t_m\in[0,T_S)$. The DMP equations give the derivative of generated trajectory at the desired time steps, starting from reference time $t_m$ (Line 8). If the generated trajectory is integrated to the end (in time) of the current segment (Line 10), it will switch to the DMP information of the following segment ($G_{j+1}, \Theta_{j+1}$), and the reference time is reset to start at the beginning of the subsequent segment (Line 13}).
+</div>
 
 We employ a model predictive controller (similar to [my other project](https://cwj22.github.io/projects/mpc.html)) to generate the steering and throttle command to track the generated reference trajectories. 
 
@@ -83,7 +81,7 @@ We employ a model predictive controller (similar to [my other project](https://c
 #### Results
 <div style="text-align: center;">
 <figure>
-<img src="./figures/bargraph_alltrials.svg" alt="DMP Trajectory Generation Algorithm" height="320" 
+<img src="./figures/bargraph_alltrials.svg" alt="DMP Trajectory Generation Algorithm" height="220" 
 />
 </figure>
 </div>
@@ -97,16 +95,18 @@ We employ a model predictive controller (similar to [my other project](https://c
 </div>
 
 #### Experiment 1: Comparison of tracking error and control commands
-<div style="text-align: center;">
-<figure>
-<img src="./figures/errorbars.svg" alt="DMP Trajectory Generation Algorithm" height="320" 
+The first experiment tests how well the vehicle can recover from states _away_ from a fixed reference trajectory by using the online DMP trajectories.
+<img src="./figures/errorbars.svg" alt="DMP Trajectory Generation Algorithm" height="400" align="left" hspace=25
 />
-</figure>
-</div>
+The experiment goes as follows:
+- The car is place at the left, right, and center of evenly spaced points long the track
+- The car generates trajectories with the DMPs, and tracks them with the MPC
+- The car _recovers_ if within 14 seconds it returns to the fixed reference and stays within a distance of 1.5m for 4 seconds
+- Otherwise, the car fails to recover because it did not return to the reference
 
 ### Experiment 2: Lap time comparison in Gran Turismo Sport
 <div>
-<img src="./figures/laptimes.svg" alt="DMP Trajectory Generation Algorithm" height="120" align="left" hspace=50
+<img src="./figures/laptimes.svg" alt="DMP Trajectory Generation Algorithm" height="140" align="left" hspace=25
 />
 Specifically, we find the index, $m$, of the closest demonstration waypoint to the observed position; this waypoint corresponds to the $j$-th segment and a reference time in the segment $t_m\in[0,T_S)$. The DMP equations give the derivative of generated trajectory at the desired time steps, starting from reference time $t_m$ (Line 8). If the generated trajectory is integrated to the end (in time) of the current segment (Line 10), it will switch to the DMP information of the following segment ($G_{j+1}, \Theta_{j+1}$), and the reference time is reset to start at the beginning of the subsequent segment (Line 13}).
 
