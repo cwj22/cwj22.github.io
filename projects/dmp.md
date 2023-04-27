@@ -76,6 +76,12 @@ We employ a model predictive controller (similar to [my other project](https://c
 ### Experiment 1: Recovery from deviations in Gran Turismo Sport
 
 #### Results
+<div style="text-align: center;">
+<figure>
+<img src="./figures/bargraph_alltrials.svg" alt="DMP Trajectory Generation Algorithm" height="320" 
+/>
+</figure>
+</div>
 
 #### Comparison of DMP methods at different track locations
 <div style="text-align: center;">
@@ -99,7 +105,9 @@ We employ a model predictive controller (similar to [my other project](https://c
 <img src="./figures/laptimes.svg" alt="DMP Trajectory Generation Algorithm" height="120" align="left" hspace=50
 />
 </figure>
-</div>
 Specifically, we find the index, $m$, of the closest demonstration waypoint to the observed position; this waypoint corresponds to the $j$-th segment and a reference time in the segment $t_m\in[0,T_S)$. The DMP equations give the derivative of generated trajectory at the desired time steps, starting from reference time $t_m$ (Line 8). If the generated trajectory is integrated to the end (in time) of the current segment (Line 10), it will switch to the DMP information of the following segment ($G_{j+1}, \Theta_{j+1}$), and the reference time is reset to start at the beginning of the subsequent segment (Line 13}).
 
 We employ a model predictive controller (similar to [my other project](https://cwj22.github.io/projects/mpc.html)) to generate the steering and throttle command to track the generated reference trajectories. 
+
+</div>
+
