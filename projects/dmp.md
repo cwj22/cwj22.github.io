@@ -18,6 +18,8 @@ GranTurismo Sport.
 line controller fails and yields less tracking error, less
 aggressive control, and the lowest lap-time compared
 to existing methods.
+
+
 ### Trajectory Generation from a Sequence of DMPs
 #### Background
 _Motivation:_ Online trajectory planning improves a system's adaptability and performance in complex and dynamic environments. Motion primitives are a computationally efficient solution to trajectory generation challenges by using pre-defined basic motion patterns.
@@ -91,7 +93,7 @@ We employ a model predictive controller (similar to [my other project](https://c
 #### Lap time comparison
 <div style="text-align: center;">
 <figure>
-<img src="./figures/laptimes.svg" alt="DMP Trajectory Generation Algorithm" height="320" 
+<img src="./figures/laptimes.svg" alt="DMP Trajectory Generation Algorithm" height="120" 
 />
 </figure>
 </div>
