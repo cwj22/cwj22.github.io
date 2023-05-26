@@ -3,7 +3,7 @@ layout: custom
 permalink: /projects
 ---
 
-## Research Projects
+## Professional and Research Projects
 
 My research explores planning and control of complex robotic systems, merging techniques from
 **engineering and model-based control** with **advances in computer science and machine learning.**
@@ -18,32 +18,23 @@ Please click each link for more description about these efforts:
 
 <div class="row">
   <div class="column">
-  <b> Programming Languages and Libraries </b>
+Links
   <ul>
   <li><a href="./projects/skillcritic.html">"Skill Critic" Hierarchical RL</a></li>
+  <li><a href="./projects/dmp.html">Dynamic Movement Primitives</a></li>
+  <li><a href="./projects/microCHP.html">Micro-CHP Modeling</a></li>
   </ul>
-
-  <b> Skills </b>
-  <ul>
-  <li> Environment control (conda, Docker) </li>
-  </ul>
-
 </div>
   <div class="column">
-<b> Algorithms </b>
+    
     <ul>
-      <li>Model Predictive Control (MPC)</li>
+  <li><a href="./projects/gail.html">Adversarial imitation of humans</a></li>
+    <li><a href="./projects/hdphmm.html">HDPHMM Trajectory Clustering</a></li>
+  <li><a href="./projects/gpr.html">Gaussian Process Regression</a></li>
+  <li><a href="./projects/mpc.html">Model Predictive Control</a></li>
     </ul>
   </div>
 </div>
-Links:
-- ["Skill Critic" Hierarchical RL](./projects/skillcritic.html)
-- [Adversarial imitation of humans](./projects/gail.html)
-- [HDPHMM Trajectory Clustering](./projects/hdphmm.html)
-- [Gaussian Process Regression](./projects/gpr.html)
-- [Dynamic Movement Primitives](./projects/dmp.html)
-- [Model Predictive Control](./projects/mpc.html)
-- [Micro-CHP Modeling](./projects/microCHP.html)
 
 
 Autonomous racing is a complex problem: the vehicle should be controlled at its limit of handling _and_ achieve top racing performance.  However, my planning, control, and machine learning algorithms **are not limited to autonomous racing**, and in the future I plan to expand into other challenging domains, such as unmanned aerial vehicles, commercial autonomous driving, mobile robots, and industrial robotics.
