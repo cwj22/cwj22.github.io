@@ -27,6 +27,8 @@ Please click each link for more description about these efforts:
 
 [Bayesian non-parametric trajectory segmentation and clustering](./projects/hdphmm.html)
 
+[Thermal system modeling and control](./projects/skillcritic.html)
+
 [Dynamic movement primitives for fast online racing trajectories](./projects/dmp.html)
 
 [Model predictive control for racing](./projects/mpc.html)
