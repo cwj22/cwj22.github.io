@@ -17,6 +17,7 @@ Please click each link for more description about these efforts:
 
 
 <div class="row">
+  <small>
   <div class="column">
 Links
   <ul>
@@ -34,6 +35,7 @@ Links
   <li><a href="./projects/mpc.html">Model Predictive Control</a></li>
     </ul>
   </div>
+    </small>
 </div>
 
 
