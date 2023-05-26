@@ -20,6 +20,11 @@ Please click each link for more description about these efforts:
 
 [Adversarial imitation with end-to-end deep reinforcement learning](./projects/gail.html)
 
+
+<div class="mxgraph" style="max-width:100%;" data-mxgraph="{&quot;highlight&quot;:&quot;#0000ff&quot;,&quot;lightbox&quot;:false,&quot;nav&quot;:true,&quot;edit&quot;:&quot;_blank&quot;,&quot;xml&quot;:&quot;&lt;mxfile host=\&quot;Electron\&quot; modified=\&quot;2023-05-26T00:45:11.553Z\&quot; agent=\&quot;5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/13.3.5 Chrome/83.0.4103.119 Electron/9.0.5 Safari/537.36\&quot; etag=\&quot;V-D2yl_QV2h27AZSYuTm\&quot; version=\&quot;13.3.5\&quot; type=\&quot;device\&quot;&gt;&lt;diagram id=\&quot;1iKTAThrLwU4qzfEspy_\&quot; name=\&quot;Page-2\&quot;&gt;zZXfb9sgEMf/Gj82snHjJI/52UXa8tBW29SXCpuLTYshw7hx89fvCDiOk0rTpE7ai3N84O7g7gsJ4nnZ3Gm6K74pBiIgIWuCeBEQcju+xa8F7w6QyciBXHPmUNSBB34AD0NPa86g6i00SgnDd32YKSkhMz1GtVb7/rKtEv2sO5rDFXjIqLimPzgzhaPjYdjxL8Dzos0chX6mpO1iD6qCMrU/Q/EyiOdaKeOsspmDsLVr6yLn35/vGi6iQ7qHcjYZFYunGxds9TcupyNokOZzQ/tevlFR+3oFJBGYZEYRFxq2R5r8qu0pZ4Uxtm1Tm4Wssv0LIYOcm6JOB1wh2Wn1gk2s0MwpF4PClKLzRiu3v1P2BrqimlO7v3XJDTVcSbS/AtWSy7zdBMahrZdvgnlvO2ugcXvCHPEisnsWPJdoZ1gn0Agwj+GohamfKDlj1n2moeIHmh5DhTjeKS7NUWnDWTBc2Fi1UZVTc3TKbuNBcyGsP3QlOkkFrxioEox+Rz8fJSZDF6e9XmOvtn0n1mjkWXEm1FaV1N+P/BS60wAaXgYfS2K5Tu6X4bPaNIfHPEvWPzerrFXbB5JIu1Y4wC/BVmEp8JLSDHq6eeQlvgEk3MAev/eqpPJcFmddbaGNdOPqj2oLo2TX9DwyJZTueQQkTkY0nWyvBfdgdJ2ZWgOzDRNUOo2FVDL38hitbF1KxWphN3pSnztQ/5CIrw6OLP0/hHp6pezq6hVMVvhBLmhVeVurWjJgfiRoCmJGs9f8yOe+tlJJ+IfSJ8mF9IfX0ieTz5E+DruH+jh39m8XL38D&lt;/diagram&gt;&lt;/mxfile&gt;&quot;}"></div>
+<script type="text/javascript" src="https://app.diagrams.net/js/viewer.min.js"></script>
+
+
 [Bayesian non-parametric trajectory segmentation and clustering](./projects/hdphmm.html)
 
 [Dynamic movement primitives for fast online racing trajectories](./projects/dmp.html)
