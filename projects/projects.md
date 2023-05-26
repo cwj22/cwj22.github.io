@@ -12,6 +12,12 @@ In particular, autonomous vehicle racing is a complicated challenge even for man
 
 Please click each link for more description about these efforts:
 
+<div style="text-align: center;">
+<figure>
+<img src="./website-Page-2.svg" alt="2nd Order DMP equations" height="140"/>       
+</figure>
+</div>
+
 [Adversarial imitation with end-to-end deep reinforcement learning](./projects/gail.html)
 
 [Bayesian non-parametric trajectory segmentation and clustering](./projects/hdphmm.html)
