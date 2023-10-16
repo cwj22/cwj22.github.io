@@ -1,6 +1,6 @@
 ---
 layout: custom
-permalink: /publications
+permalink: /resume
 ---
 
 
