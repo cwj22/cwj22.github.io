@@ -16,7 +16,7 @@ layout: custom
     <div class="column">
         <h2><p style="text-align: center;color:#7030A0;" class="emoji-text">🎓</p><p style="text-align: center;color:#7030A0;">Education</p></h2>
         <p><b>Ph.D. Mechanical Engineering</b><br>
-        <i>University of California, Berkeley</i>
+        <i>University of California, Berkeley</i> | May 2019 <br>
         <ul>             
         <li>PI: Masayoshi Tomizuka </li>
         <li>Minors: Optimization & AI </li>
