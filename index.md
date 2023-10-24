@@ -45,4 +45,5 @@ I am seeking roles where I can apply my expertise in reinforcement learning, con
     </div>
 </body>
 
-<p>This is a smiley face </p><p class="emoji-text">&#128522;</p>
+<p>This is a smiley face </p><p class="emoji-text">🎓
+&#128522;</p>
