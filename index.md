@@ -31,7 +31,7 @@ I am seeking roles where I can apply my expertise in reinforcement learning, con
         <h2><p style="text-align: center;" class="emoji-text">🎓</p><p style="text-align: center;">Education</p></h2>
         <p><b>Ph.D. Mechanical Engineering</b><br>
         <i>University of California, Berkeley</i>
-        <ul>
+        <ul style="margin-top: 0pt;">
             <li>PI: Masayoshi Tomizuka </li>
             <li>Minors: Optimization & AI </li>
             </ul>
