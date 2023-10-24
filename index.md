@@ -54,8 +54,6 @@ layout: custom
         <li>GPA 3.98 - Highest Distinction</li>
         <li>Spanish Language Minor</li>
     </ul>
-</p>
-
     </div>
     <div class="column">
             <h2><p style="text-align: center;color:#ec008c;" class="emoji-text">⌨️
