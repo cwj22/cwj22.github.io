@@ -38,6 +38,8 @@ I am seeking roles where I can apply my expertise in reinforcement learning, con
         </p>
     </div>
     <div class="column">
+            <h2><p style="text-align: center;" class="emoji-text">⌨️
+</p><p style="text-align: center;">Programming</p></h2>
         <p style="text-align: right;"> Python   🔵🔵🔵🔵🔵<br>
         PyTorch   🔵🔵🔵🔵🔵<br>
         Tensorflow   🔵🔵🔵🔵⚪<br>
@@ -65,7 +67,14 @@ I am seeking roles where I can apply my expertise in reinforcement learning, con
         </ul></p>
     </div>
     <div class="column">
-        <p>h </p>
+            <h2><p style="text-align: center;" class="emoji-text">✅</p><p style="text-align: center;">Skills</p></h2>
+        <p>
+        <ul>
+        <li> Environment control (conda, Docker) </li>
+        <li> Version control (Github)</li>
+        <li> Coding style guidelines and typing (MyPy)</li>
+        <li> Cloud computing (AWS)</li>
+        <li> GPU training (CUDA)</li></ul></p>
     </div>
 </div>
 
