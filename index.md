@@ -28,7 +28,7 @@ I am seeking roles where I can apply my expertise in reinforcement learning, con
 
 <div class="container">
     <div class="column">
-        <h2><p class="emoji-text">🎓</p>Education</h2>
+        <h2><p style="text-align: center;" class="emoji-text">🎓</p><p style="text-align: center;">Education<p></h2>
         <p><b>Ph.D. Mechanical Engineering</b><br>
         <i>University of California, Berkeley</i>
         <ul>
@@ -53,7 +53,7 @@ I am seeking roles where I can apply my expertise in reinforcement learning, con
 
 <div class="container">
     <div class="column">
-        <h2><p style="text-align: center;">Select Algorithms<p></h2>
+        <h2><p style="text-align: center;" class="emoji-text">💻</p><p style="text-align: center;">Select Algorithms<p></h2>
         <p><ul>
             <li>Model Predictive Control (MPC, iLQR)</li>
             <li>Reinforcement Learning (SAC, PPO)</li>
