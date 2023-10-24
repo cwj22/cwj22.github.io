@@ -25,31 +25,50 @@ I am seeking roles where I can apply my expertise in reinforcement learning, con
 - _GPA: 3.98/4.0_
 
 
-<body>
-    <div class="container">
-        <div class="column">
-            <h2><p class="emoji-text">🎓</p>Education</h2>
-            <p><b>Ph.D. Mechanical Engineering</b><br>
-            <i>University of California, Berkeley</i>
-            <ul>
-              <li>PI: Masayoshi Tomizuka </li>
-              <li>Minors: Optimization & AI </li>
-              </ul></p>
-        </div>
-        <div class="column">
-            <h2>Select Algorithms</h2>
-            <p><ul>
-  <li>Model Predictive Control (MPC, iLQR)</li>
-  <li>Reinforcement Learning (SAC, PPO)</li>
-  <li>Imitation Learning (GANs, GAIL)</li>
-  <li>Time-series segmentation (HDPHMM) </li>
-  <li>Sequence Modeling (Decision Transformer) </li>
-  <li> Attention Mechanisms (VAE)</li>
-        <li>Hierarchical RL (Options, Skills, Goals</li>
-</ul></p>
-        </div>
-    </div>
-</body>
 
-<p>This is a smiley face </p><p class="emoji-text">🎓
-&#128522;</p>
+<div class="container">
+    <div class="column">
+        <h2><p class="emoji-text">🎓</p>Education</h2>
+        <p><b>Ph.D. Mechanical Engineering</b><br>
+        <i>University of California, Berkeley</i>
+        <ul>
+            <li>PI: Masayoshi Tomizuka </li>
+            <li>Minors: Optimization & AI </li>
+            </ul>
+        </p>
+    </div>
+    <div class="column">
+        <h2>Select Algorithms</h2>
+        <p><ul>
+            <li>Model Predictive Control (MPC, iLQR)</li>
+            <li>Reinforcement Learning (SAC, PPO)</li>
+            <li>Imitation Learning (GANs, GAIL)</li>
+            <li>Time-series segmentation (HDPHMM) </li>
+            <li>Sequence Modeling (Decision Transformer) </li>
+            <li> Attention Mechanisms (VAE)</li>
+                <li>Hierarchical RL (Options, Skills, Goals</li>
+        </ul></p>
+    </div>
+</div>
+
+<div class="container">
+    <div class="column">
+    <p>
+    <ul>
+        <li> Python   🔵🔵🔵🔵🔵</li>
+        <li> PyTorch   🔵🔵🔵🔵🔵</li>
+        <li> Tensorflow   🔵🔵🔵🔵⚪</li>
+        <li> C/C++   🔵🔵🔵🔵⚪</li>
+        <li> MATLAB   🔵🔵🔵🔵🔵</li>
+        <li> Simulink   🔵🔵🔵🔵⚪</li>
+        <li> Excel VBA   🔵🔵🔵🔵⚪</li>
+        <li> LaTex   🔵🔵🔵🔵🔵</li>
+        <li> HTML   🔵🔵🔵⚪⚪</li>
+        </ul>
+    </p>
+</div>
+    <div class="column">
+        <p>h </p>
+    </div>
+</div>
+
