@@ -3,7 +3,7 @@ layout: custom
 permalink: /professional
 ---
 ## Professional Experience
-<img src="images/equation-1.gif"/>
+<img src="msc.jpg"/>
 Gradduate Student Researcher | Mechanical Systems Control Laboratory
 - Mechanical Systems Control Lab at UC Berkeley
 - _3.5 years_
