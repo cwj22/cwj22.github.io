@@ -2,12 +2,14 @@
 layout: custom
 ---
 ## About Me
+<div style:"background-color: #FF5733;color: white;padding: 10px;"
 <p>
 <ul>
 <li> Future Ph.D. from UC Berkeley developing <b>state-of-the-art machine learning and control</b> algorithms for continuous time systems </li>
 <li>Experience pushing the limits of artificial intelligence with <b>high-quality, highly-collaborative code at Sony AI </b></li>
 <li>Over two years of cumulative experience in industry in control systems, computer science, product development, and manufacturing </li>
 </ul></p>
+</div>
 
 <div class="container">
     <div class="column">
