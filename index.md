@@ -3,6 +3,7 @@ layout: custom
 ---
 <!-- ## About Me -->
 <div class="colored-block">
+  <div class="container">
 <div class="column1">
 <h2><p style="text-align: center;color:white;" class="emoji-text">📄<h2 style="color:white;">Summary</h2></p></h2></div>
 <div class="column2">
@@ -12,6 +13,7 @@ layout: custom
 <li>Experience pushing the limits of artificial intelligence with <b>high-quality, highly-collaborative code at Sony AI </b></li>
 <li>Over two years of cumulative experience in industry in control systems, computer science, product development, and manufacturing </li>
 </ul></p>
+</div>
 </div>
 </div>
 <!-- style="margin-top: 0pt;" -->
