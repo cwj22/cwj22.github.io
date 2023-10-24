@@ -38,19 +38,21 @@
             justify-content: space-between;
         }
 
-        .title {
-      transform: rotate(-90deg); /* Rotate the title text on the left */
-      text-align: right; /* Right-align the title */
-      position: absolute; /* Position it absolutely within the block */
-      top: 50%; /* Adjust the vertical positioning as needed */
-      right: -10px; /* Adjust the horizontal positioning as needed */
-    }
-
         .column {
             flex: 1;
             padding: 10px;
             /* border: 1px solid #ccc; */
         }
+
+        .column1 {
+      flex: 1; /* This column will take up 1 part of available space */
+      padding: 10px;
+    }
+
+    .column2 {
+      flex: 4; /* This column will take up 2 parts of available space */
+      padding: 10px;
+    }
         
     </style>
 <style>

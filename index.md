@@ -3,7 +3,9 @@ layout: custom
 ---
 <!-- ## About Me -->
 <div class="colored-block">
-<h2><p style="text-align: center;color:white;" class="emoji-text">📄<h2>Summary</h2></p></h2>
+<div class="column1">
+<h2><p style="text-align: center;color:white;" class="emoji-text">📄<h2 style="color:white;">Summary</h2></p></h2></div>
+<div class="column2">
 <p>
 <ul>
 <li> Future Ph.D. from UC Berkeley developing <b>state-of-the-art machine learning and control</b> algorithms for continuous time systems </li>
@@ -11,6 +13,7 @@ layout: custom
 <li>Over two years of cumulative experience in industry in control systems, computer science, product development, and manufacturing </li>
 </ul></p>
 </div>
+</div?
 <!-- style="margin-top: 0pt;" -->
 
 <div class="container">
