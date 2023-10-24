@@ -53,7 +53,7 @@ I am seeking roles where I can apply my expertise in reinforcement learning, con
 
 <div class="container">
     <div class="column">
-        <h2>Select Algorithms</h2>
+        <h2><p style="text-align: center;">Select Algorithms<p></h2>
         <p><ul>
             <li>Model Predictive Control (MPC, iLQR)</li>
             <li>Reinforcement Learning (SAC, PPO)</li>
