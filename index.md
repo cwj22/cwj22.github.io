@@ -23,3 +23,22 @@ I am seeking roles where I can apply my expertise in reinforcement learning, con
 - Co-op Education Certificate
 - Studied abroad at Universidad de Carlos III - Madrid, ES, in spring 2018
 - _GPA: 3.98/4.0_
+
+
+<body>
+    <div class="container">
+        <div class="column">
+            <h2>Column 1</h2>
+            <p>This is the content of column 1.</p>
+        </div>
+        <div class="column">
+            <h2>Column 2</h2>
+            <p>This is the content of column 2.</p>
+        </div>
+        <div class="column">
+            <h2>Column 3</h2>
+            <p>This is the content of column 3.</p>
+        </div>
+    </div>
+</body>
+</html>
