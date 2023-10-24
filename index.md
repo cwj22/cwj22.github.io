@@ -4,6 +4,7 @@ layout: custom
 <!-- ## About Me -->
 <div class="colored-block">
 <h2><p style="text-align: center;color:#000000;" class="emoji-text">📄</p></h2>
+<>
 <p>
 <ul>
 <li> Future Ph.D. from UC Berkeley developing <b>state-of-the-art machine learning and control</b> algorithms for continuous time systems </li>
@@ -15,6 +16,9 @@ layout: custom
 
 <div class="container">
     <div class="column">
+        <div class="title">
+      Title
+    </div>
         <h2><p style="text-align: center;color:#7030A0;" class="emoji-text">🎓</p><p style="text-align: center;color:#7030A0;">Education</p></h2>
         <p><b>Ph.D. Mechanical Engineering</b><br>
         <i>University of California, Berkeley</i> | May 2023 <br>
