@@ -43,7 +43,7 @@ I am seeking roles where I can apply my expertise in reinforcement learning, con
         <ul>
         <li>GPA 3.98 - Highest Distinction</li>
         <li>Spanish Language Minor</li>
-        <ul>
+        <ul></p>
     </div>
     <div class="column">
             <h2><p style="text-align: center;" class="emoji-text">⌨️
