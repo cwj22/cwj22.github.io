@@ -28,15 +28,23 @@ I am seeking roles where I can apply my expertise in reinforcement learning, con
 <body>
     <div class="container">
         <div class="column">
-            <h2>Education</h2>
+            <h2>class="emoji-text">🎓</p>Education</h2>
             <p><b>Ph.D. Mechanical Engineering</b><br>
             <i>University of California, Berkeley</i>
             <br>  - PI: Masayoshi Tomizuka <br>
               - Minors: Optimization & AI </p>
         </div>
         <div class="column">
-            <h2>Column 2</h2>
-            <p>This is the content of column 2.</p>
+            <h2>Select Algorithms</h2>
+            <p><ul>
+  <li>Model Predictive Control (MPC, iLQR)</li>
+  <li>Reinforcement Learning (SAC, PPO)</li>
+  <li>Imitation Learning (GANs, GAIL)</li>
+  <li>Time-series segmentation (HDPHMM) </li>
+  <li>Sequence Modeling (Decision Transformer) </li>
+  <li> Attention Mechanisms (VAE)</li>
+        <li>Hierarchical RL (Options, Skills, Goals</li>
+</ul></p>
         </div>
         <div class="column">
             <h2>Column 3</h2>
