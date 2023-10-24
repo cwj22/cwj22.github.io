@@ -11,6 +11,6 @@ Graduate Student Researcher | [Mechanical Systems Control Laboratory](https://ms
 
 Research Scientist Intern | [Sony AI](https://www.ai.sony/)
 
-<img src="professional/zb.png"/>
+<img src="professional/zb.png" width="200"/>
 
 Engineering Co-op | [Zimmer Biomet](https://www.zimmerbiomet.com/en)
