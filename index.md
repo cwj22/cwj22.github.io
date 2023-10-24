@@ -38,6 +38,21 @@ I am seeking roles where I can apply my expertise in reinforcement learning, con
         </p>
     </div>
     <div class="column">
+        <p style="text-align: right;"> Python   🔵🔵🔵🔵🔵<br>
+        PyTorch   🔵🔵🔵🔵🔵<br>
+        Tensorflow   🔵🔵🔵🔵⚪<br>
+        C/C++   🔵🔵🔵🔵⚪<br>
+        MATLAB   🔵🔵🔵🔵🔵<br>
+        Simulink   🔵🔵🔵🔵⚪<br>
+        Excel VBA   🔵🔵🔵🔵⚪<br>
+        LaTex   🔵🔵🔵🔵🔵<br>
+        HTML   🔵🔵🔵⚪⚪<br>
+    </p>
+</div>
+</div>
+
+<div class="container">
+    <div class="column">
         <h2>Select Algorithms</h2>
         <p><ul>
             <li>Model Predictive Control (MPC, iLQR)</li>
@@ -49,24 +64,6 @@ I am seeking roles where I can apply my expertise in reinforcement learning, con
                 <li>Hierarchical RL (Options, Skills, Goals</li>
         </ul></p>
     </div>
-</div>
-
-<div class="container">
-    <div class="column">
-    <p>
-    <ul>
-        <li> Python   🔵🔵🔵🔵🔵</li>
-        <li> PyTorch   🔵🔵🔵🔵🔵</li>
-        <li> Tensorflow   🔵🔵🔵🔵⚪</li>
-        <li> C/C++   🔵🔵🔵🔵⚪</li>
-        <li> MATLAB   🔵🔵🔵🔵🔵</li>
-        <li> Simulink   🔵🔵🔵🔵⚪</li>
-        <li> Excel VBA   🔵🔵🔵🔵⚪</li>
-        <li> LaTex   🔵🔵🔵🔵🔵</li>
-        <li> HTML   🔵🔵🔵⚪⚪</li>
-        </ul>
-    </p>
-</div>
     <div class="column">
         <p>h </p>
     </div>
