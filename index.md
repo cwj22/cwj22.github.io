@@ -16,9 +16,9 @@ layout: custom
 
 <div class="container">
     <div class="column">
-        <div class="title">
+        <p class="title">
       Title
-    </div>
+    </p>
         <h2><p style="text-align: center;color:#7030A0;" class="emoji-text">🎓</p><p style="text-align: center;color:#7030A0;">Education</p></h2>
         <p><b>Ph.D. Mechanical Engineering</b><br>
         <i>University of California, Berkeley</i> | May 2023 <br>
