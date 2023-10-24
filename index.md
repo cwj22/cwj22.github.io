@@ -13,7 +13,7 @@ layout: custom
 <li>Over two years of cumulative experience in industry in control systems, computer science, product development, and manufacturing </li>
 </ul></p>
 </div>
-</div?
+</div>
 <!-- style="margin-top: 0pt;" -->
 
 <div class="container">
