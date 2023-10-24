@@ -23,15 +23,12 @@ Title </p>
         <h2><p style="text-align: center;color:#7030A0;" class="emoji-text">🎓</p><p style="text-align: center;color:#7030A0;">Education</p></h2>
         <p><b>Ph.D. Mechanical Engineering</b><br>
         <i>University of California, Berkeley</i> | May 2023 <br>
-        <ul>             
-        <li>PI: Masayoshi Tomizuka </li>
-        <li>Minors: Optimization & AI </li>
-        </ul><b>M.S. Mechanical Engineering </b><br>
-        <i>University of California, Berkeley </i> | May 2021 <br>
-                <ul>
+<ul>
         <li>GPA 3.98 - Highest Distinction</li>
         <li>Spanish Language Minor</li>
         </ul>
+        <b>M.S. Mechanical Engineering </b><br>
+        <i>University of California, Berkeley </i> | May 2021 <br>       
         <b>B.S. Mechanical Engineering</b><br>
         <i>Purdue University</i> | May 2019 <br>
         <ul>
