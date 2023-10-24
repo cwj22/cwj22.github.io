@@ -29,10 +29,10 @@ I am seeking roles where I can apply my expertise in reinforcement learning, con
     <div class="container">
         <div class="column">
             <h2>Education</h2>
-            <p><b>Ph.D. Mechanical Engineering</b></p>
-            <p><i>University of California, Berkeley</i></p>
-            - PI: Masayoshi Tomizuka
-            - Minors: Optimization & AI
+            <p><b>Ph.D. Mechanical Engineering</b><br>
+            <i>University of California, Berkeley</i>
+            <br>  - PI: Masayoshi Tomizuka <br>
+              - Minors: Optimization & AI </p>
         </div>
         <div class="column">
             <h2>Column 2</h2>
