@@ -46,8 +46,8 @@ I am seeking roles where I can apply my expertise in reinforcement learning, con
         </ul></p>
     </div>
     <div class="column">
-            <h2><p style="text-align: center;" class="emoji-text">⌨️
-</p><p style="text-align: center;">Programming</p></h2>
+            <h2><p style="text-align: center;color:#ec008c;" class="emoji-text">⌨️
+</p><p style="text-align: center;color:#ec008c;">Programming</p></h2>
         <p style="text-align: right;margin-right: 60pt"> Python   🔵🔵🔵🔵🔵<br>
         PyTorch   🔵🔵🔵🔵🔵<br>
         Tensorflow   🔵🔵🔵🔵⚪<br>
@@ -63,7 +63,7 @@ I am seeking roles where I can apply my expertise in reinforcement learning, con
 
 <div class="container">
     <div class="column">
-        <h2><p style="text-align: center;" class="emoji-text">💻</p><p style="text-align: center;">Select Algorithms</p></h2>
+        <h2><p style="text-align: center;color:#b2ce13;" class="emoji-text">💻</p><p style="text-align: center;color:#b2ce13;">Select Algorithms</p></h2>
         <p><ul>
             <li>Model Predictive Control (MPC, iLQR)</li>
             <li>Reinforcement Learning (SAC, PPO)</li>
@@ -75,7 +75,7 @@ I am seeking roles where I can apply my expertise in reinforcement learning, con
         </ul></p>
     </div>
     <div class="column">
-            <h2><p style="text-align: center;" class="emoji-text">✅</p><p style="text-align: center;">Skills</p></h2>
+            <h2><p style="text-align: center;color:#00adef;" class="emoji-text">✅</p><p style="text-align: center;color:#00adef;">Skills</p></h2>
         <p>
         <ul>
         <li> Environment control (conda, Docker) </li>
