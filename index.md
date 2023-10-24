@@ -4,7 +4,8 @@ layout: custom
 <!-- ## About Me -->
 <div class="colored-block">
 <h2><p style="text-align: center;color:#000000;" class="emoji-text">📄</p></h2>
-<>
+<p class="title">
+Title </p>
 <p>
 <ul>
 <li> Future Ph.D. from UC Berkeley developing <b>state-of-the-art machine learning and control</b> algorithms for continuous time systems </li>
