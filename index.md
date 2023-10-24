@@ -48,10 +48,6 @@ I am seeking roles where I can apply my expertise in reinforcement learning, con
         <li>Hierarchical RL (Options, Skills, Goals</li>
 </ul></p>
         </div>
-        <div class="column">
-            <h2>Column 3</h2>
-            <p>This is the content of column 3.</p>
-        </div>
     </div>
 </body>
 
