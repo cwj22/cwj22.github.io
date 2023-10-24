@@ -3,7 +3,7 @@ layout: custom
 ---
 <!-- ## About Me -->
 <div class="colored-block">
-<h2><p style="text-align: center;color:white;" class="emoji-text">📄</p></h2>
+<h2><p style="text-align: center;color:white;" class="emoji-text">📄Summary</p></h2>
 <p>
 <ul>
 <li> Future Ph.D. from UC Berkeley developing <b>state-of-the-art machine learning and control</b> algorithms for continuous time systems </li>
