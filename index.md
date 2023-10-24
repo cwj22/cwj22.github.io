@@ -28,7 +28,7 @@ I am seeking roles where I can apply my expertise in reinforcement learning, con
 <body>
     <div class="container">
         <div class="column">
-            <h2>class="emoji-text">🎓</p>Education</h2>
+            <h2><p class="emoji-text">🎓</p>Education</h2>
             <p><b>Ph.D. Mechanical Engineering</b><br>
             <i>University of California, Berkeley</i>
             <ul>
