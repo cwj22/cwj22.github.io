@@ -2,7 +2,7 @@
 layout: custom
 ---
 ## About Me
-<div style:"background-color: #FF5733;color: white;padding: 10px;"
+<div class="colored-block">
 <p>
 <ul>
 <li> Future Ph.D. from UC Berkeley developing <b>state-of-the-art machine learning and control</b> algorithms for continuous time systems </li>
