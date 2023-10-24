@@ -2,7 +2,7 @@
 layout: custom
 ---
 <!-- ## About Me -->
-<div class="colored-block">
+<div class="colored-block" style="margin-bottom: 10px;">
   <div class="container">
 <div class="column1">
 <h2><p style="text-align: center;color:white;line-height: 100px" class="emoji-text">📄<h2 style="color:white;text-align:center">Summary</h2></p></h2></div>
