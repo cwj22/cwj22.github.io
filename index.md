@@ -28,7 +28,7 @@ layout: custom
                 <ul>
         <li>GPA 3.98 - Highest Distinction</li>
         <li>Spanish Language Minor</li>
-        </ul>   
+        </ul>
         <b>B.S. Mechanical Engineering</b><br>
         <i>Purdue University</i> | May 2019 <br>
         <ul>
