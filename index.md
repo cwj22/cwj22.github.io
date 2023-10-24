@@ -36,14 +36,14 @@ I am seeking roles where I can apply my expertise in reinforcement learning, con
             <li>Minors: Optimization & AI </li>
             </ul>
         </p>
-        <!-- <p><b>M.S. Mechanical Engineering </b><br>
+        <p><b>M.S. Mechanical Engineering </b><br>
         <i>University of California, Berkeley </i> | May 2021 <br>
         <b>B.S. Mechanical Engineering</b><br>
         <i>Purdue University</i> | May 2019 <br>
         <ul>
         <li>GPA 3.98 - Highest Distinction</li>
         <li>Spanish Language Minor</li>
-        <ul></p> -->
+        </ul></p>
     </div>
     <div class="column">
             <h2><p style="text-align: center;" class="emoji-text">⌨️
