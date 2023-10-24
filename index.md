@@ -10,16 +10,17 @@ layout: custom
 <li>Over two years of cumulative experience in industry in control systems, computer science, product development, and manufacturing </li>
 </ul></p>
 </div>
+<!-- style="margin-top: 0pt;" -->
 
 <div class="container">
     <div class="column">
         <h2><p style="text-align: center;color:#7030A0;" class="emoji-text">🎓</p><p style="text-align: center;color:#7030A0;">Education</p></h2>
         <p><b>Ph.D. Mechanical Engineering</b><br>
         <i>University of California, Berkeley</i>
-        <ul style="margin-top: 0pt;">
-            <li>PI: Masayoshi Tomizuka </li>
-            <li>Minors: Optimization & AI </li>
-            </ul><b>M.S. Mechanical Engineering </b><br>
+        <ul>             
+        <li>PI: Masayoshi Tomizuka </li>
+        <li>Minors: Optimization & AI </li>
+        </ul><b>M.S. Mechanical Engineering </b><br>
         <i>University of California, Berkeley </i> | May 2021 <br>
         <b>B.S. Mechanical Engineering</b><br>
         <i>Purdue University</i> | May 2019 <br>
