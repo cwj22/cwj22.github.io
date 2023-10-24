@@ -17,9 +17,6 @@ Title </p>
 
 <div class="container">
     <div class="column">
-        <p class="title">
-      Title
-    </p>
         <h2><p style="text-align: center;color:#7030A0;" class="emoji-text">🎓</p><p style="text-align: center;color:#7030A0;">Education</p></h2>
         <p><b>Ph.D. Mechanical Engineering</b><br>
         <i>University of California, Berkeley</i> | May 2023 <br>
