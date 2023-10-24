@@ -48,7 +48,7 @@ I am seeking roles where I can apply my expertise in reinforcement learning, con
     <div class="column">
             <h2><p style="text-align: center;" class="emoji-text">⌨️
 </p><p style="text-align: center;">Programming</p></h2>
-        <p style="text-align: right;margin-right: 50pt"> Python   🔵🔵🔵🔵🔵<br>
+        <p style="text-align: right;margin-right: 60pt"> Python   🔵🔵🔵🔵🔵<br>
         PyTorch   🔵🔵🔵🔵🔵<br>
         Tensorflow   🔵🔵🔵🔵⚪<br>
         C/C++   🔵🔵🔵🔵⚪<br>
