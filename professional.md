@@ -28,7 +28,7 @@ Engineering Co-op | [Zimmer Biomet](https://www.zimmerbiomet.com/en) -->
 <div style="display: flex; align-items: center;">
     <img src="professional/msc.jpg" height='40' alt="MSC">
     <div class="prof-head">
-     <p> Graduate Student Researcer </p>
+     <p> Graduate Student Researcer |<span class="date-head"> Aug. 2019 - Present (4.5 years) </span></p>
     </div>
 </div>
 - Conducted 5-year research project in collaboration with Sony AI to advance learning-based control algorithms for autonomous racing in the challenging, high-fidelity simulator Gran Turismo Sport
@@ -41,7 +41,7 @@ Engineering Co-op | [Zimmer Biomet](https://www.zimmerbiomet.com/en) -->
 <div style="display: flex; align-items: center;">
     <img src="professional/sony.svg" height='20' alt="Sony AI">
     <div class="prof-head">
-     <p> Research Scientist Intern</p>
+     <p> Research Scientist Intern |<span class="date-head"> May - Dec. 2021 (7 months) </span></p>
     </div>
 </div>
 
@@ -50,7 +50,7 @@ Engineering Co-op | [Zimmer Biomet](https://www.zimmerbiomet.com/en) -->
 <div style="display: flex; align-items: center;">
     <img src="professional/zb.png" height='40' alt="Zimmer Biomet">
     <div class="prof-head">
-     <p> Engineering Co-op <span class="date-head">Aug. 2019 - Present (4.5 years) </span></p>
+     <p> Engineering Co-op |<span class="date-head"> May 2015 - Dec. 2017 (18 months) </span></p>
     </div>
 </div>
 <div>
