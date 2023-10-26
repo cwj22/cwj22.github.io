@@ -2,7 +2,7 @@
 layout: custom
 permalink: /professional
 ---
-<div class="colored-block-grey" style="margin-bottom: 10px;">
+<!-- <div class="colored-block-grey" style="margin-bottom: 10px;">
   <div class="container">
     <div class="column1">
         <h2><p style="text-align: right;color:white;" class="emoji-text">📄</p></h2>
@@ -11,7 +11,9 @@ permalink: /professional
         <h2 style="color:white;text-align:left"> Professional Experience</h2>
     </div>
   </div>
-</div>
+</div> -->
+
+## Professional Experience
 
 <!-- <img src="professional/msc.jpg" height="40">
 
