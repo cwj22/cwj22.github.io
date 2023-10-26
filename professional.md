@@ -38,7 +38,7 @@ Engineering Co-op | [Zimmer Biomet](https://www.zimmerbiomet.com/en) -->
 - Effectively communicated in regular research presentations and seminars for various audiences and exhibited high-quality technical writing and edit ing of applications and scientific papers
 - Showed leadership and long-term vision when <span style="color:#F3B507;"><b><i>mentoring 4 graduate students</i></b></span> visiting from other universities that resulted in multiple publications and continuous improvement of a unified control system
 
-<div style="display: flex; align-items: flex-end;">
+<div style="display: flex; align-items: center;">
     <img src="professional/sony.svg" height='20' alt="Sony AI">
     <div class="prof-head">
      <p> Research Scientist Intern |<span class="date-head"> May - Dec. 2021 (7 months) </span></p>
@@ -49,14 +49,14 @@ Engineering Co-op | [Zimmer Biomet](https://www.zimmerbiomet.com/en) -->
 - Merged multiple branches with new features to a Github repository with 30+ contributors and wrote code that adhered to <span style="color:#D2007B;"><b><i> unit testing, typing,</i></b></span>  and <span style="color:#D2007B;"><b><i> style</i></b></span>  requirements to pass peer and manager code reviews
 
 
-<div style="display: flex; align-items: space-between;">
+<div style="display: flex; justify-content: space-between;">
     <div style="display: flex; align-items: center;">
         <img src="professional/zb.png" height='40' alt="Zimmer Biomet">
         <div class="prof-head" style="vertical-align:bottom;">
             <p> Engineering Co-op |<span class="date-head"> May 2015 - Dec. 2017 (18 months) </span> </p>
         </div>
     </div>
-    <div>
+    <div style="text-align: right;">
     <span class="date-head" style="text-align:right;"><a href="https://www.zimmerbiomet.com/en/">Zimmer Biomet</a></span>
     </div>
 </div>
