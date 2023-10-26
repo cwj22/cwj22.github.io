@@ -4,15 +4,10 @@ permalink: /professional
 ---
 <div class="colored-block-grey" style="margin-bottom: 10px;">
   <div class="container">
-<div class="column1">
-<h2><p style="text-align: center;color:white;line-height: 120px" class="emoji-text">📄<h2 style="color:white;text-align:center">Summary</h2></p></h2></div>
-<div class="column2">
-<p>
-<ul>
-<li> Future Ph.D. from UC Berkeley developing <b>state-of-the-art machine learning and control</b> algorithms for continuous time systems </li>
-<li>Experience pushing the limits of artificial intelligence with <b>high-quality, highly-collaborative code at Sony AI </b></li>
-<li>Over two years of cumulative experience in industry in control systems, computer science, product development, and manufacturing </li>
-</ul></p>
+<div class="column">
+<h2><p style="text-align: center;color:white;line-height: 120px" class="emoji-text">📄</div>
+<div class="column">
+<h2 style="color:white;text-align:left">Professional Experience</h2>
 </div>
 </div>
 </div>
