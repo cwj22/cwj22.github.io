@@ -4,7 +4,7 @@ permalink: /service
 ---
 
 
-## Leadership and Service
+## Service & Teaching
 
 
 <div style="display: flex; align-items: center; justify-content: space-between;">
