@@ -24,11 +24,15 @@ Graduate Student Researcher | [Mechanical Systems Control Laboratory](https://ms
 <img src="professional/zb.png" height="40">
 
 Engineering Co-op | [Zimmer Biomet](https://www.zimmerbiomet.com/en) -->
-
-<div style="display: flex; align-items: center;">
-    <img src="professional/msc.jpg" height='40' alt="MSC">
-    <div class="prof-head">
-     <p> Graduate Student Researcher |<span class="date-head"> Aug. 2019 - Present (4.5 years) </span></p>
+<div style="display: flex; align-items: center; justify-content: space-between;">
+    <div style="display: flex; align-items: center;">
+        <img src="professional/msc.jpg" height='40' alt="MSC">
+        <div class="prof-head">
+        <p> Graduate Student Researcher |<span class="date-head"> Aug. 2019 - Present (4.5 years) </span></p>
+        </div>
+    </div>
+    <div style="text-align: right;">
+    <span class="date-head" style="text-align:right;"><a href="https://msc.berkeley.edu/">MSC Lab</a></span>
     </div>
 </div>
 - Conducted 5-year research project in collaboration with Sony AI to advance learning-based control algorithms for autonomous racing in the challenging, high-fidelity simulator Gran Turismo Sport
@@ -37,11 +41,15 @@ Engineering Co-op | [Zimmer Biomet](https://www.zimmerbiomet.com/en) -->
 - Derived a novel hierarchical RL algorithm with learned skills that shows significant improvement over existing methods in <span style="color:#F3B507;"><b><i>long-horizon</i></b></span> robotic manipulation (Fetch), maze (D4RL), and racing (Gran Turismo) tasks
 - Effectively communicated in regular research presentations and seminars for various audiences and exhibited high-quality technical writing and edit ing of applications and scientific papers
 - Showed leadership and long-term vision when <span style="color:#F3B507;"><b><i>mentoring 4 graduate students</i></b></span> visiting from other universities that resulted in multiple publications and continuous improvement of a unified control system
-
-<div style="display: flex; align-items: center;">
-    <img src="professional/sony.svg" height='20' alt="Sony AI">
-    <div class="prof-head">
-     <p> Research Scientist Intern |<span class="date-head"> May - Dec. 2021 (7 months) </span></p>
+<div style="display: flex; align-items: center; justify-content: space-between;">
+    <div style="display: flex; align-items: center;">
+        <img src="professional/sony.svg" height='20' alt="Sony AI">
+        <div class="prof-head">
+        <p> Research Scientist Intern |<span class="date-head"> May - Dec. 2021 (7 months) </span></p>
+        </div>
+    </div>
+    <div style="text-align: right;">
+    <span class="date-head" style="text-align:right;"><a href="https://www.ai.sony/">Sony AI</a></span>
     </div>
 </div>
 - Proposed a novel motion primitive formulation for online racing trajectory planning, resulting in ongoing collaboration with top robotics researchers and paper submission to competitive controls conference
