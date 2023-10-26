@@ -49,11 +49,14 @@ Engineering Co-op | [Zimmer Biomet](https://www.zimmerbiomet.com/en) -->
 - Merged multiple branches with new features to a Github repository with 30+ contributors and wrote code that adhered to unit testing, typing, and style requirements to pass peer and manager code reviews
 
 
+<div style="display: flex; align-items: space-between;">
 <div style="display: flex; align-items: center;">
     <img src="professional/zb.png" height='40' alt="Zimmer Biomet">
     <div class="prof-head">
-     <p> Engineering Co-op |<span class="date-head"> May 2015 - Dec. 2017 (18 months) </span> <span class="date-head" style="text-align:right;"><a href="https://www.zimmerbiomet.com/en/">Zimmer Biomet</a></span></p>
+     <p> Engineering Co-op |<span class="date-head"> May 2015 - Dec. 2017 (18 months) </span> </p>
     </div>
 </div>
+<span class="date-head" style="text-align:right;"><a href="https://www.zimmerbiomet.com/en/">Zimmer Biomet</a></span>
+</div>
 
-
+a
