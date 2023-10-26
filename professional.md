@@ -64,9 +64,9 @@ Engineering Co-op | [Zimmer Biomet](https://www.zimmerbiomet.com/en) -->
 <div class="prof-head">
      <p> Development Engineering Co-op |<span class="date-head"> August – December 2017 </span> </p>
     </div>
-- Led design verification for small-scale pilot project, and presented department’s verification reports to Quality and Regulatory departments
+- <span style="color:#2078CA;"><b><i>Led design verification</i></b></span>  for small-scale pilot project, and presented department’s verification reports to Quality and Regulatory departments
 Researched ASTM and ISO standards, previous company testing, and literature to determine appropriate design inputs and verification methods
-- Skills: Technical reports, mechanical failure analysis, CAD, intermediate GD&T course
+- Skills: Technical reports, mechanical failure analysis, CAD, <span style="color:#2078CA;"><b><i>intermediate GD&T course</i></b></span> 
 
 <div class="prof-head">
      <p> Engineering Co-op |<span class="date-head"> August – December 2016 </span> </p>
