@@ -26,16 +26,26 @@ Graduate Student Researcher | [Mechanical Systems Control Laboratory](https://ms
 Engineering Co-op | [Zimmer Biomet](https://www.zimmerbiomet.com/en) -->
 
 <div style="display: flex; align-items: center;">
-    <img src="professional/zb.png" height='40' alt="Zimmer Biomet">
-    <div style="text-align: center; margin-left: 10px;">
-        <p style="color:black;font-weight:light;"> Engineering Co-op</p>
+    <img src="professional/msc.jpg" height='40' alt="MSC">
+    <div class="prof-head">
+     <p> Graduate Student Researcer </p>
     </div>
 </div>
+
+
+<div style="display: flex; align-items: center;">
+    <img src="professional/sony.svg" height='20' alt="Sony AI">
+    <div class="prof-head">
+     <p> Research Scientist Intern</p>
+    </div>
+</div>
+
+
 
 <div style="display: flex; align-items: center;">
     <img src="professional/zb.png" height='40' alt="Zimmer Biomet">
     <div class="prof-head">
-     <p> Engineering Co-op</p>
+     <p> Engineering Co-op | [Zimmer Biomet](https://www.zimmerbiomet.com/en)</p>
     </div>
 </div>
 
