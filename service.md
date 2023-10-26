@@ -11,9 +11,9 @@ permalink: /service
     <div style="display: flex; align-items: center;">
         <img src="professional/eyh.png" height='140' alt="EYH">
         <div class="prof-head" style="vertical-align:bottom;">
-            <p style="height: 15pt;line-height: 15pt;"> Event Co-Chair |<span class="date-head" style="height: 15pt;line-height: 15pt;"> May 2021 - May 2023 (2 years) </span> </p>
-            <p style="height: 15pt;line-height: 15pt;"> Logistic Committee Chair |<span class="date-head" style="height: 15pt;line-height: 15pt;"> May 2020 (1 year) </span> </p>
-            <p style="height: 15pt;line-height: 15pt;"> Logistics Committee Member |<span class="date-head" style="height: 15pt;line-height: 15pt;"> May 2019 (1 year) </span> </p>
+            <p style="height: 15pt;line-height: 15pt;"> Event Co-Chair |<span class="date-head" style="height: 15pt;line-height: 15pt;"> May 2021 - 2023 (2 years) </span> </p>
+            <p style="height: 15pt;line-height: 15pt;"> Logistic Committee Chair |<span class="date-head" style="height: 15pt;line-height: 15pt;"> May 2020 - 2021 (1 year) </span> </p>
+            <p style="height: 15pt;line-height: 15pt;"> Logistics Committee Member |<span class="date-head" style="height: 15pt;line-height: 15pt;"> May 2019 - 2020 (1 year) </span> </p>
         </div>
     </div>
     <div style="text-align: right;">
