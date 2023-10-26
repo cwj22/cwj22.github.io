@@ -32,7 +32,7 @@ Engineering Co-op | [Zimmer Biomet](https://www.zimmerbiomet.com/en) -->
 
 <div style="display: flex; align-items: center;">
     <img src="professional/zb.png" height='40' alt="Zimmer Biomet">
-    <div class="prof-head" style="text-align: center; margin-left: 10px;">
+    <div class="prof-head">
      <p> Engineering Co-op</p>
     </div>
 </div>
