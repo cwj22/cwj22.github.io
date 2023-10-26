@@ -52,7 +52,9 @@ Engineering Co-op | [Zimmer Biomet](https://www.zimmerbiomet.com/en) -->
     <div class="prof-head">
      <p> Engineering Co-op <span class="date-head">Aug. 2019 - Present (4.5 years) </span></p>
     </div>
+</div>
+<div>
     <p style="text-align:center;">
      <a href="https://www.zimmerbiomet.com/en/">Zimmer Biomet</a></p>
-</div>
+    </div>
 
