@@ -28,7 +28,7 @@ Engineering Co-op | [Zimmer Biomet](https://www.zimmerbiomet.com/en) -->
 <div style="display: flex; align-items: center;">
     <img src="professional/msc.jpg" height='40' alt="MSC">
     <div class="prof-head">
-     <p> Graduate Student Researcer |<span class="date-head"> Aug. 2019 - Present (4.5 years) </span></p>
+     <p> Graduate Student Researcher |<span class="date-head"> Aug. 2019 - Present (4.5 years) </span></p>
     </div>
 </div>
 - Conducted 5-year research project in collaboration with Sony AI to advance learning-based control algorithms for autonomous racing in the challenging, high-fidelity simulator Gran Turismo Sport
