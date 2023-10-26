@@ -5,15 +5,11 @@ permalink: /service
 
 
 ## Leadership and Service
-### Expanding Your Horizons at UC Berkeley
-- Event Co-Chair from May 2021 - May 2023
-- Logistics Committee Chair from August 2020 - March 2021
-- Logistics Committee Member from October 2019 - March 2020
 
 
 <div style="display: flex; align-items: center; justify-content: space-between;">
     <div style="display: flex; align-items: center;">
-        <img src="professional/eyh.png" height='140' alt="EYH">
+        <img src="professional/eyh.png" height='160' alt="EYH">
         <div class="prof-head" style="vertical-align:bottom;">
             <p style="height: 15pt;line-height: 15pt;"> Event Co-Chair |<span class="date-head" style="height: 15pt;line-height: 15pt;"> May 2021 - May 2023 (2 years) </span> </p>
             <p style="height: 15pt;line-height: 15pt;"> Event Co-Chair |<span class="date-head" style="height: 15pt;line-height: 15pt;"> May 2021 - May 2023 (2 years) </span> </p>
@@ -25,6 +21,9 @@ permalink: /service
     </div>
 </div>
 
+<blockquote>
+    This is a block quote. It can span multiple lines and is typically used to represent a longer quotation from another source.
+</blockquote>
 Expanding your Horizons @ Berkeley is an annual STEM conference to expose middle school womxn to career possibilities in STEM. The conference is a single-day event where students have the opportunity to learn from 30+ workshops led by volunteers in industry and academia. Each student's conference program includes a keynote address, 3 classroom-based workshops, and free lunch! Organization of the conference is entirely student led by the EYH planning committee.
 
 
@@ -32,9 +31,10 @@ Expanding your Horizons @ Berkeley is an annual STEM conference to expose middle
 - Managed 40 planning committee volunteers and 150 day-of-volunteers
 - Organized volunteers into 7 different committees and delegated tasks appropriately to manage Food, Finance, Programs, Transportation, etc
 
+<br>
 <div style="display: flex; align-items: center; justify-content: space-between;">
     <div style="display: flex; align-items: center;">
-        <img src="professional/mec.png" height='40' alt="Zimmer Biomet">
+        <img src="professional/mec.png" height='25' alt="MEC">
         <div class="prof-head" style="vertical-align:bottom;">
             <p> Graduate Instructor |<span class="date-head"> Aug. - Dec. 2023 (4  Months) </span> </p>
         </div>
@@ -47,10 +47,10 @@ Expanding your Horizons @ Berkeley is an annual STEM conference to expose middle
 - Course: Statistics and Data Science for Engineers
 - Led 4 hour-long Python-based lab sections each week on statistics and machine learning topics to upper-level undergraduates
 
-
+<br>
 <div style="display: flex; align-items: center; justify-content: space-between;">
     <div style="display: flex; align-items: center;">
-        <img src="professional/sig.png" height='40' alt="Zimmer Biomet">
+        <img src="professional/sig.png" height='40' alt="SIG">
         <div class="prof-head" style="vertical-align:bottom;">
             <p> Instructor |<span class="date-head">  Aug. - Sep. 2023(3 weeks) </span> </p>
         </div>
