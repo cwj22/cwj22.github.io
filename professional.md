@@ -52,7 +52,7 @@ Engineering Co-op | [Zimmer Biomet](https://www.zimmerbiomet.com/en) -->
 <div style="display: flex; align-items: space-between;">
     <div style="display: flex; align-items: center;">
         <img src="professional/zb.png" height='40' alt="Zimmer Biomet">
-        <div class="prof-head">
+        <div class="prof-head" style="vertical-align:bottom;">
             <p> Engineering Co-op |<span class="date-head"> May 2015 - Dec. 2017 (18 months) </span> </p>
         </div>
     </div>
