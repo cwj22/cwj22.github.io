@@ -15,12 +15,19 @@ permalink: /service
     <div style="display: flex; align-items: center;">
         <img src="professional/eyh.png" height='140' alt="EYH">
         <div class="prof-head" style="vertical-align:bottom;">
-            <p> Event Co-Chair |<span class="date-head"> May 2021 - May 2023 (2 years) </span> </p>
-            <p> Event Co-Chair |<span class="date-head"> May 2021 - May 2023 (2 years) </span> </p>
-            <p> Event Co-Chair |<span class="date-head"> May 2021 - May 2023 (2 years) </span> </p>
+            <p style="height: 25pt;line-height: 25pt;"> Event Co-Chair |<span class="date-head" style="height: 25pt;line-height: 25pt;"> May 2021 - May 2023 (2 years) </span> </p>
+            <p style="height: 25pt;line-height: 25pt;"> Event Co-Chair |<span class="date-head" style="height: 25pt;line-height: 25pt;"> May 2021 - May 2023 (2 years) </span> </p>
+            <pstyle="height: 25pt;line-height: 25pt;"> Event Co-Chair |<span class="date-head" style="height: 25pt;line-height: 25pt;"> May 2021 - May 2023 (2 years) </span> </p>
         </div>
     </div>
     <div style="text-align: right;">
-    <span class="date-head" style="text-align:right;"><a href="https://www.zimmerbiomet.com/en/">Zimmer Biomet</a></span>
+    <span class="date-head" style="text-align:right;"><a href="https://www.ocf.berkeley.edu/~eyh/index.html">EYH@Berkeley</a></span>
     </div>
 </div>
+
+Expanding your Horizons @ Berkeley is an annual STEM conference to expose middle school womxn to career possibilities in STEM. The conference is a single-day event where students have the opportunity to learn from 30+ workshops led by volunteers in industry and academia. Each student's conference program includes a keynote address, 3 classroom-based workshops, and free lunch! Organization of the conference is entirely student led by the EYH planning committee.
+
+
+- <span style="color:#F3B507;"><b><i>2 years in charge of organizing</i></b></span> annual STEM conference for 300+ students
+- Managed 40 planning committee volunteers and 150 day-of-volunteers
+- Organized volunteers into 7 different committees and delegated tasks appropriately to manage Food, Finance, Programs, Transportation, etc
