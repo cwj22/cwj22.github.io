@@ -59,4 +59,20 @@ Engineering Co-op | [Zimmer Biomet](https://www.zimmerbiomet.com/en) -->
 <span class="date-head" style="text-align:right;"><a href="https://www.zimmerbiomet.com/en/">Zimmer Biomet</a></span>
 </div>
 
+<div class="prof-head">
+     <p> Development Engineering Co-op |<span class="date-head"> August – December 2017 </span> </p>
+    </div>
+- Led design verification for small-scale pilot project, and presented department’s verification reports to Quality and Regulatory departments
+Researched ASTM and ISO standards, previous company testing, and literature to determine appropriate design inputs and verification methods
+- Skills: Technical reports, mechanical failure analysis, CAD, intermediate GD&T course
 
+<div class="prof-head">
+     <p> Engineering Co-op |<span class="date-head"> August – December 2016 </span> </p>
+    </div>
+- Determined process time requirements and troubleshooted an electronic form to allow non-standard address lines and automatic drop downs
+- Skills: Excel VBA, data validation formulas, standard formulas, pivot tables; CAD (NX)
+<div class="prof-head">
+     <p> Manufacturing Engineering Co-op |<span class="date-head"> May – August 2015, January – May 2016 </span> </p>
+    </div>
+- Statistically characterized process capability with historical measurements and composed re-work steps for non-conforming products
+- Skills: Minitab, process capability, design of experiments, introductory GD&T course
