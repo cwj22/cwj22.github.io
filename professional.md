@@ -44,17 +44,16 @@ Engineering Co-op | [Zimmer Biomet](https://www.zimmerbiomet.com/en) -->
      <p> Research Scientist Intern |<span class="date-head"> May - Dec. 2021 (7 months) </span></p>
     </div>
 </div>
-
+- Proposed a novel motion primitive formulation for online racing trajectory planning, resulting in ongoing collaboration with top robotics researchers and paper submission to competitive controls conference
+- After inspecting company’s existing racing MPC implementation, suggested and executed algorithmic improvements that increased tracking performance and decreased lap-time by 4 seconds
+- Merged multiple branches with new features to a Github repository with 30+ contributors and wrote code that adhered to unit testing, typing, and style requirements to pass peer and manager code reviews
 
 
 <div style="display: flex; align-items: center;">
     <img src="professional/zb.png" height='40' alt="Zimmer Biomet">
     <div class="prof-head">
-     <p> Engineering Co-op |<span class="date-head"> May 2015 - Dec. 2017 (18 months) </span></p>
+     <p> Engineering Co-op |<span class="date-head"> May 2015 - Dec. 2017 (18 months) </span> <span class="date-head" style="text-align:right;"><a href="https://www.zimmerbiomet.com/en/">Zimmer Biomet</a></span></p>
     </div>
 </div>
-<div>
-    <p style="text-align:center;">
-     <a href="https://www.zimmerbiomet.com/en/">Zimmer Biomet</a></p>
-    </div>
+
 
