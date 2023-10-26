@@ -38,7 +38,7 @@ Engineering Co-op | [Zimmer Biomet](https://www.zimmerbiomet.com/en) -->
 - Effectively communicated in regular research presentations and seminars for various audiences and exhibited high-quality technical writing and edit ing of applications and scientific papers
 - Showed leadership and long-term vision when <span style="color:#F3B507;"><b><i>mentoring 4 graduate students</i></b></span> visiting from other universities that resulted in multiple publications and continuous improvement of a unified control system
 
-<div style="display: flex; align-items: center;">
+<div style="display: flex; align-items: flex-end;">
     <img src="professional/sony.svg" height='20' alt="Sony AI">
     <div class="prof-head">
      <p> Research Scientist Intern |<span class="date-head"> May - Dec. 2021 (7 months) </span></p>
