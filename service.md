@@ -43,3 +43,25 @@ Expanding your Horizons @ Berkeley is an annual STEM conference to expose middle
     <span class="date-head" style="text-align:right;"><a href="https://classes.berkeley.edu/content/2023-spring-engin-178-001-lec-001">Course Description</a></span>
     </div>
 </div>
+
+- Course: Statistics and Data Science for Engineers
+- Led 4 hour-long Python-based lab sections each week on statistics and machine learning topics to upper-level undergraduates
+
+
+<div style="display: flex; align-items: center; justify-content: space-between;">
+    <div style="display: flex; align-items: center;">
+        <img src="professional/sig.png" height='40' alt="Zimmer Biomet">
+        <div class="prof-head" style="vertical-align:bottom;">
+            <p> Instructor |<span class="date-head">  Aug. - Sep. 2023(3 weeks) </span> </p>
+        </div>
+    </div>
+    <div style="text-align: right;">
+    <span class="date-head" style="text-align:right;"><a href="https://classes.berkeley.edu/content/2023-spring-engin-178-001-lec-001">Course Description</a></span>
+    </div>
+</div>
+
+SIG at University of California, Berkeley, provides academically advanced students with an exciting and challenging educational experience at one of the nation's top public universities. 
+
+
+- Instructed two intensive, hands on courses for gifted students (each class was 3hrs/day for 3 weeks)
+- Courses:  Creative Engineering and Robotics / AI Robotics
