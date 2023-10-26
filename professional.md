@@ -33,10 +33,10 @@ Engineering Co-op | [Zimmer Biomet](https://www.zimmerbiomet.com/en) -->
 </div>
 - Conducted 5-year research project in collaboration with Sony AI to advance learning-based control algorithms for autonomous racing in the challenging, high-fidelity simulator Gran Turismo Sport
 - Implemented and improved many cutting edge, popular ML and RL algorithms by leveraging my deep understanding of their mathematical derivation and theoretical basis for algorithmic choices
-- Tackled learning from human demonstrations by leveraging RL with generative adversarial networks and proposed a new imitation-based decision transformer with corrective online rollouts
-- Derived a novel hierarchical RL algorithm with learned skills that shows significant improvement over existing methods in long-horizon robotic manipulation (Fetch), maze (D4RL), and racing (Gran Turismo) tasks
+- Tackled <span style="color:#F3B507;"><b><i>learning from human demonstrations</i></b></span> by leveraging RL with generative adversarial networks and proposed a new imitation-based decision transformer with corrective online rollouts
+- Derived a novel hierarchical RL algorithm with learned skills that shows significant improvement over existing methods in <span style="color:#F3B507;"><b><i>long-horizon</i></b></span> robotic manipulation (Fetch), maze (D4RL), and racing (Gran Turismo) tasks
 - Effectively communicated in regular research presentations and seminars for various audiences and exhibited high-quality technical writing and edit ing of applications and scientific papers
-- Showed leadership and long-term vision when mentoring 4 graduate students visiting from other universities that resulted in multiple publications and continuous improvement of a unified control system
+- Showed leadership and long-term vision when <span style="color:#F3B507;"><b><i>mentoring 4 graduate students</i></b></span> visiting from other universities that resulted in multiple publications and continuous improvement of a unified control system
 
 <div style="display: flex; align-items: center;">
     <img src="professional/sony.svg" height='20' alt="Sony AI">
@@ -45,8 +45,8 @@ Engineering Co-op | [Zimmer Biomet](https://www.zimmerbiomet.com/en) -->
     </div>
 </div>
 - Proposed a novel motion primitive formulation for online racing trajectory planning, resulting in ongoing collaboration with top robotics researchers and paper submission to competitive controls conference
-- After inspecting company’s existing racing MPC implementation, suggested and executed algorithmic improvements that increased tracking performance and decreased lap-time by 4 seconds
-- Merged multiple branches with new features to a Github repository with 30+ contributors and wrote code that adhered to unit testing, typing, and style requirements to pass peer and manager code reviews
+- After inspecting company’s existing <span style="color:#D2007B;"><b><i> racing MPC</i></b></span>  implementation, suggested and executed algorithmic improvements that increased tracking performance and decreased lap-time by 4 seconds
+- Merged multiple branches with new features to a Github repository with 30+ contributors and wrote code that adhered to <span style="color:#D2007B;"><b><i> unit testing, typing,</i></b></span>  and <span style="color:#D2007B;"><b><i> style</i></b></span>  requirements to pass peer and manager code reviews
 
 
 <div style="display: flex; align-items: space-between;">
@@ -59,4 +59,4 @@ Engineering Co-op | [Zimmer Biomet](https://www.zimmerbiomet.com/en) -->
 <span class="date-head" style="text-align:right;"><a href="https://www.zimmerbiomet.com/en/">Zimmer Biomet</a></span>
 </div>
 
-a
+
