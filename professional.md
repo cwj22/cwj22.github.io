@@ -31,7 +31,12 @@ Engineering Co-op | [Zimmer Biomet](https://www.zimmerbiomet.com/en) -->
      <p> Graduate Student Researcer </p>
     </div>
 </div>
-
+- Conducted 5-year research project in collaboration with Sony AI to advance learning-based control algorithms for autonomous racing in the challenging, high-fidelity simulator Gran Turismo Sport
+- Implemented and improved many cutting edge, popular ML and RL algorithms by leveraging my deep understanding of their mathematical derivation and theoretical basis for algorithmic choices
+- Tackled learning from human demonstrations by leveraging RL with generative adversarial networks and proposed a new imitation-based decision transformer with corrective online rollouts
+- Derived a novel hierarchical RL algorithm with learned skills that shows significant improvement over existing methods in long-horizon robotic manipulation (Fetch), maze (D4RL), and racing (Gran Turismo) tasks
+- Effectively communicated in regular research presentations and seminars for various audiences and exhibited high-quality technical writing and edit ing of applications and scientific papers
+- Showed leadership and long-term vision when mentoring 4 graduate students visiting from other universities that resulted in multiple publications and continuous improvement of a unified control system
 
 <div style="display: flex; align-items: center;">
     <img src="professional/sony.svg" height='20' alt="Sony AI">
