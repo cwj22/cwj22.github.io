@@ -31,6 +31,7 @@ We employ sequences of motion primitives for real-time trajectory planning in ra
 - Experiment design, implementation, and analysis 
 - Creation of manuscript, submission, and revision as corresponding author
 <br>
+<br>
 
 #### <span style="color:#7030A0;">Visit the <span style="font-size:14pt;color:#7030A0;" class="emoji-text">🔗</span> <a href="https://sites.google.com/berkeley.edu/racingdmp/home">Project Website</a> for the manuscript, videos, and more information about this project.</span>
 
