@@ -43,6 +43,7 @@ We employ sequences of motion primitives for real-time trajectory planning in ra
 <div class="prof-head" style="margin-left:0px;color:#ec008c;">
 Outracing Human Racers: Model-based Trajectory Planning and Control
 </div>
+Available at: [arxiv.org/abs/2211.09378](https://arxiv.org/abs/2211.09378)
 <blockquote>
 In this work, we investigate how to approach human expert-level racing performance with model-based planning and control methods using the high-fidelity racing simulator Gran Turismo Sport (GTS). We focus on the commonly adopted model-based racing framework, consisting of an offline trajectory planner and an online Model Predictive Control-based (MPC) tracking controller. We thoroughly investigate the design challenges from three perspective, namely vehicle model, planning algorithm, and controller design, and propose novel solutions to improve the baseline approach toward human expert-level performance. We showed that the proposed control framework can achieve top 0.95% lap time among human-expert players in GTS. Furthermore, we conducted comprehensive ablation studies to validate the necessity of proposed modules, and pointed out potential future directions to reach human-best performance. 
 </blockquote>
@@ -65,6 +66,7 @@ In this work, we investigate how to approach human expert-level racing performan
 <div class="prof-head" style="margin-left:0px;color:#ec008c;">
 Double-Iterative Gaussian Process Regression for Modeling Error Compensation 
 </div>
+Available at: [arxiv.org/abs/2305.07740](https://arxiv.org/abs/2305.07740)
 <blockquote>
  While offline planning allows optimizing a full reference trajectory for the minimum lap time objective, such modeling discrepancies are particularly detrimental when using offline planning, as planning model errors compound with controller modeling errors. Gaussian Process Regression (GPR) can compensate for modeling errors. However, previous works primarily focus on modeling error in real-time control without consideration for how the model used in offline planning can affect the overall performance. In this work, we propose a double-GPR error compensation algorithm to reduce model uncertainties; specifically, we compensate both the planner's model and controller's model with two respective GPR-based error compensation functions. Furthermore, we design an iterative framework to re-collect error-rich data using the racing control system.
 </blockquote>
