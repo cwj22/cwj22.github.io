@@ -25,6 +25,7 @@ Our Skill-Critic algorithm optimizes both the low and high-level policies of a h
 - Extended the skill-based semi-MDP formulation to a framework of two augmented MDPs so that the high-level and low-level policies could be optimized in parallel
 - Theoretically justified the use of inter-related Q functions to improve performance of the low-level policy by incorporating the value assigned by high-level skills
 - Summarized the results of the research in the paper and actively engaged in a rebuttal to refine and defend the research
+<br>
 
 #### <span style="color:#7030A0;">Visit the <span style="font-size:14pt;color:#7030A0;" class="emoji-text">🔗</span> <a href="https://sites.google.com/view/skill-critic">Project Website</a> for the code and manuscript, videos, and more information about this project.</span>
 
@@ -56,6 +57,7 @@ We first verify that AIL can train a high performing (i.e. low lap time) policy 
 - Code implementation of gym environment and calculation of track-related state features for both demonstrations and environment
 - Experiment design and execution, including design of configuration files to handle all baseline and hyperparameter choices
 - Currently finalizing paper manuscript for submission
+<br>
 
 #### <span style="color:#ec008c;">Please stay tuned for a project website and paper manuscript. </span>
 
@@ -67,9 +69,9 @@ We first verify that AIL can train a high performing (i.e. low lap time) policy 
 <b>Racing Metric</b>:  Systematic Trajectory Evaluation from Human Feedback and Preferences
 </div>
 <blockquote>
-This is an ongoing research project in which we plan to investigate how we can learn racing metrics from human feedback. We will explore how to learn metrics for evaluating racing performance from human feedback, so that the learned metrics are consistent with human values from various aspects (e.g., sportsmanship), which are highly difficult to model with manually designed reward/cost functions. The learned metrics can serve as reward functions for training RL policies, cost functions for model-based optimal controller, and evaluation metrics for a principled and fair benchmark of all categories of autonomous racing algorithms. 
+This is an <b>ongoing research project</b> in which we plan to investigate how we can learn racing metrics from human feedback. We will explore how to learn metrics for evaluating racing performance from human feedback, so that the learned metrics are consistent with human values from various aspects (e.g., sportsmanship), which are highly difficult to model with manually designed reward/cost functions. The learned metrics can serve as reward functions for training RL policies, cost functions for model-based optimal controller, and evaluation metrics for a principled and fair benchmark of all categories of autonomous racing algorithms. 
 
-<br>
+<br><br>
 We are inspired by the recent success of reinforcement learning from human preferences (RLHP). RLHP learns the reward function from human preferences during RL training. We aim to adapt this approach to develop a comprehensive metric that will be applied to already trained agents to test how well the decent quality agents align with human values. This problem is known as Value Alignment Verification, and has only recently been studied on simplified cases, often with restrictive assumptions like known human reward functions. By leveraging the strengths of human preferences, we aim to extend Value Alignment Verification to the complicated multi-agent racing problem.
 
 </blockquote>
