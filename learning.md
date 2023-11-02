@@ -33,7 +33,7 @@ Visit the <span style="font-size:14pt;color:#7030A0;" class="emoji-text">🔗</s
 ### <span style="color:#ec008c;">Imitation Learning from Human Demonstrations</span>
 
 <div class="prof-head" style="margin-left:0px;color:#7030A0;">
-<b>BeT-AIL</b>:  Behavior Transformer-Assisted Adversarial Imitation Learning from Human  Gameplay in Gran Turismo Sport
+<b>BeT-AIL</b>:  Behavior Transformer-Assisted Adversarial Imitation Learning from Human  Gameplay
 </div>
 <blockquote>
 Our Behavior Transformer-Assisted Adversarial Imitation Learning (BeT-AIL) method leverages BeT sequence modeling and online AIL fine-tuning to learn human-like motion from demonstrations.
@@ -46,13 +46,16 @@ We first verify that AIL can train a high performing (i.e. low lap time) policy 
 </blockquote>
 
 <div style="display:flex;justify-content:space-between;align-items:center">
-<img src="projects/skillcritic.svg" height='200' alt="projects"> <img src="projects/trajectory_animation.gif" height='350' alt="projects">
+<img src="projects/transformerassisted.svg" height='200' alt="projects"> <img src="projects/finishedlaps.svg" height='350' alt="projects">
 </div>
 
 #### <span style="color:#7030A0;">Highlight of my Contributions:</span>
 
-- 
+- Full development of the BeT-AIL algorithm, including decision to use the Behavior Transformer, residual policy, and adversarial imitation learning
+- Adaptation of existing code-bases to include residual policy, multiple different types of regularization on the discriminator network, and extended features in PPO and SAC algorithms 
+- Code implementation of gym environment and calculation of track-related state features for both demonstrations and environment
+- Experiment design and execution, including design of configuration files to handle all baseline and hyperparameter choices
 
-Visit the <span style="font-size:14pt;color:#7030A0;" class="emoji-text">🔗</span> <a href="https://sites.google.com/view/skill-critic">Project Website</a> for the code and manuscript, videos, and more information about this project.
+Stay tuned for a project website and paper manuscript.
 
 
