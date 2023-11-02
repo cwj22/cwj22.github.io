@@ -13,6 +13,6 @@ permalink: /learning
         </div>
 
 🔗 <a href="https://sites.google.com/view/skill-critic">Project Website</a>
-            <h2><p style="text-align: center;"><span style="color:#00adef;" class="emoji-text">🔗</span> <span style="color:#00adef;">Project Website</span></p></h2>
+            <h2><span style="color:#00adef;" class="emoji-text">🔗</span> <span style="color:#00adef;">Project Website</span></h2>
 
-<img src="projects/skillcritic.svg" height='200' alt="projects">
+<img src="projects/skillcritic.svg" height='200' alt="projects"> <img src="projects/trajectory_animation.gif" height='200' alt="projects">
