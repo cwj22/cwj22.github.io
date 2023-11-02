@@ -8,7 +8,7 @@ permalink: /learning
 
 ### <span style="color:#7030A0;">Sparse Reward Reinforcement Learning  <a href="https://sites.google.com/view/skill-critic">(Project Website)</a></span>
 
-<div class="prof-head" style="margin-left:0px">
+<div class="prof-head" style="margin-left:0px;color:#7030A0;">
 <b>Skill-Critic</b>: Refining Learned Skills for Hierarchical Reinforcement Learning
 </div>
 <blockquote>
@@ -30,4 +30,29 @@ Visit the <span style="font-size:14pt;color:#7030A0;" class="emoji-text">🔗</s
 
 
 
-### <span style="color:#7030A0;">Imitation Learning from Human Demonstrations</span>
+### <span style="color:#ec008c;">Imitation Learning from Human Demonstrations</span>
+
+<div class="prof-head" style="margin-left:0px;color:#7030A0;">
+<b>BeT-AIL</b>:  Behavior Transformer-Assisted Adversarial Imitation Learning from Human  Gameplay in Gran Turismo Sport
+</div>
+<blockquote>
+Our Behavior Transformer-Assisted Adversarial Imitation Learning (BeT-AIL) method leverages BeT sequence modeling and online AIL fine-tuning to learn human-like motion from demonstrations.
+We first verify that AIL can train a high performing (i.e. low lap time) policy in GT Sport, even when those demonstrations are collected at different control frequency and the agent's action is delayed due to real-time computation. However, AIL alone does not capture the non-Markovian decision making strategy of humans, and the AIL policy exhibits shaky behavior when analyzing the change in action commands. Therefore, we model real human players as using sequential decision-making with the Behavior Transformer (BeT) and restrict an AIL residual policy to make only minor adjustments to the BeT policy. The contributions are:
+<ul>
+    <li>We propose a residual AIL policy to fine-tune the BeT policy; the BeT policy models multi-step decision making, and the residual policy adjusts for state distribution shift and differences in the demonstrated trajectories and the agent's environment</li>
+    <li>We show a small residual policy allows BeT-AIL to closely match non-Markovian patterns in human demonstrations while still significantly improving online performance</li>
+    <li>We learn an autonomous racing policy solely from trajectories from real human gameplay in Gran Turismo (GT) Sport.</li>
+</ul>
+</blockquote>
+
+<div style="display:flex;justify-content:space-between;align-items:center">
+<img src="projects/skillcritic.svg" height='200' alt="projects"> <img src="projects/trajectory_animation.gif" height='350' alt="projects">
+</div>
+
+#### <span style="color:#7030A0;">Highlight of my Contributions:</span>
+
+- 
+
+Visit the <span style="font-size:14pt;color:#7030A0;" class="emoji-text">🔗</span> <a href="https://sites.google.com/view/skill-critic">Project Website</a> for the code and manuscript, videos, and more information about this project.
+
+
