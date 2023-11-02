@@ -15,11 +15,13 @@ We employ sequences of motion primitives for real-time trajectory planning in ra
 </blockquote>
 
 <div style="display:flex;justify-content:space-between;align-items:center">
-<img src="projects/sections.png" height='200' alt="projects"> <iframe width="560" height="315" src="https://www.youtube.com/embed/8_GEzYPwz4s?modestbranding=1&autohide=1&showinfo=0&controls=1&rel=0" frameborder="0" allowfullscreen></iframe></iframe>
+<img src="projects/sections.png" height='200' alt="projects"> <iframe width="560" height="315" src="https://www.youtube.com/embed/8_GEzYPwz4s?modestbranding=1&autohide=1&showinfo=0&controls=1&rel=0" frameborder="0" allowfullscreen></iframe>
 </div>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8_GEzYPwz4s?modestbranding=1&autohide=1&showinfo=0&controls=1&rel=0" frameborder="0" allowfullscreen></iframe>
 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8_GEzYPwz4s?modestbranding=1&autohide=1&showinfo=0&controls=1&rel=0" frameborder="0" allowfullscreen></iframe>
 
 #### <span style="color:#7030A0;">Highlight of my Contributions:</span>
 
