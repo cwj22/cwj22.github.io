@@ -8,8 +8,8 @@ permalink: /learning
 
 ### Project 1: Sparse Reward Reinforcement Learning
 
-<div class="prof-head">
-<p><b>Skill-Critic</b>: Refining Learned Skills for Hierarchical Reinforcement Learning </p>
+<div class="prof-head" style="margin-left:0px">
+<b>Skill-Critic</b>: Refining Learned Skills for Hierarchical Reinforcement Learning
 </div>
 <blockquote>
 Our Skill-Critic algorithm optimizes both the low and high-level policies of a hierarchial agent, AND these policies are  initialized and regularized by a latent space learned from offline demonstrations to guide the joint policy optimization. We validate our approach in multiple sparse RL environments, including a new sparse reward autonomous racing task in Gran Turismo Sport. The experiments show that Skill-Critic's low-level policy fine-tuning and demonstration-guided regularization are essential for optimal performance.
