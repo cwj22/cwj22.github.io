@@ -76,15 +76,15 @@ This is an <b>ongoing research project</b> in which we plan to investigate how w
 We are inspired by the recent success of reinforcement learning from human preferences (RLHP). RLHP learns the reward function from human preferences during RL training. We aim to adapt this approach to develop a comprehensive metric that will be applied to already trained agents to test how well the decent quality agents align with human values. This problem is known as Value Alignment Verification, and has only recently been studied on simplified cases, often with restrictive assumptions like known human reward functions. By leveraging the strengths of human preferences, we aim to extend Value Alignment Verification to the complicated multi-agent racing problem.
 
 </blockquote>
+<br>
 
 #### <span style="color:#00adef;">Ongoing areas of invesitigation:</span>
 - Trajectory filtering and identification of important moments
 - Reinforcement learning from human preferences 
 - Preference transformer, which uses sequence modeling to model non-Markovian human preferences
-
+<br>
 
 #### <span style="color:#00adef;">Highlight of my Contributions:</span>
-
 - Collection of human demonstrations and data analysis and filering to examine important moments
 - Creation of diverse AI agents that exhibit different types of sportsmanship behavior
 - Development of a system to identify important moments in agent and demonstrated trajectories that should be labeled with a preference
