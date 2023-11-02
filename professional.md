@@ -24,7 +24,7 @@ Graduate Student Researcher | [Mechanical Systems Control Laboratory](https://ms
 <img src="professional/zb.png" height="40">
 
 Engineering Co-op | [Zimmer Biomet](https://www.zimmerbiomet.com/en) -->
-<div style="display: flex; align-items: center; justify-content: space-between;">
+<div style="display: flex; vertical-align:bottom; justify-content: space-between;">
     <div style="display: flex; vertical-align:bottom;">
         <img src="professional/msc.jpg" height='40' alt="MSC">
         <div class="prof-head">
