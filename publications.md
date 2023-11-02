@@ -5,25 +5,25 @@ permalink: /publications
 
 
 ## Publications
-1. **Weaver, C.**, Capobianco, R., Wurman, P., Stone, P. “Real-time Trajectory Generation via Imitation Learning
-of Dynamic Movement Primitives for Autonomous Racing” IEEE Robotics and Automation Letters, 2023.
-Awaiting review. [Project description](https://cwj22.github.io/projects/dmp.html)
-2. Su,. S., Hao, C., **Weaver, C.**, Tang, C., Zhan, W. Tomizuka, M. “Double-Iterative Gaussian Process Regression
-for Modeling Error Compensation in Autonomous Racing” IFAC World Congress, 2023.  [Related project](https://cwj22.github.io/projects/mpc.html)
-3. Hao, Ce., Tang, Chen., Bergkvist, E., **Weaver, C.**, Sun, L., Zhan, Wei., Tomizuka, M. “Outracing Human Racers
-with Model-based Autonomous Racing” IEEE Transactions on Intelligent Vehicles. 2022. Rejected - under revision. [Related project](https://cwj22.github.io/projects/mpc.html)
-4. Bird, T., **Weaver, C.**, and Jain, N. “Switched Linear Model of a Stratified Hot Water Tank for Control of
+1. **Weaver, C.**, Tang, C., Hao, C., Kawamoto, K., Tomizuka, M. Zhan, W. “Transformer-Assisted Adversarial Imitation Learning for Autonomous Racing.” <span style="color:#f68712;"><i>Under Preparation.</i></span>
+2. Benciolini, T., Tang, C., Leibold, M., **Weaver, C.**,  Tomizuka, M., Zhan, W. “Active Exploration in Iterative Gaussian Process Regression for Uncertainty Compensation in Autonomous Racing.” IEEE Transactions on Control Systems Technology. 2023. <span style="color:#f68712;"><i>Awaiting Review.</i></span>
+3. Hao, C., Tang, C., Bergkvist, E., **Weaver, C.**, Sun, L., Zhan, W., Tomizuka, M. “Outracing Human Racers: Model-based Trajectory Planning and Control for Time-trial Autonomous Racing” IEEE Transactions on Intelligent Vehicles. <span style="color:#f68712;"><i>Awaiting Review.</i></span> Available at: [arxiv.org/abs/2211.09378](https://arxiv.org/abs/2211.09378). Related Project: [link](https://cwj22.github.io/control.html)
+4. Hao, C.\*, **Weaver, C.\* (\*Equal Contribution)**, Tang, C., Kawamoto, K., Tomizuka, M. Zhan, W. “Skill-Critic: Refining Learned Skills for Reinforcement Learning”, IEEE Robotics and Automation Letters 2023. <span style="color:#f68712;"><i>Awaiting Review.</i></span> Available at:   [sites.google.com/view/skill-critic](https://sites.google.com/view/skill-critic). Related Project: [link](https://cwj22.github.io/learning.html)
+5. **Weaver, C.**,  Capobianco, R., Wurman, P., Stone, P., Masayoshi, T. “Real-time Trajectory Generation via Imitation Learning of Dynamic Movement Primitives for Autonomous Racing” American Control Conference, 2024. <span style="color:#f68712;"><i>Awaiting Review.</i></span> Available at: [sites.google.com/berkeley.edu/racingdmp/home](https://sites.google.com/berkeley.edu/racingdmp/home). Related Project: [link](https://cwj22.github.io/control.html)
+6. Su,. S., Hao, C., **Weaver, C.**, Tang, C., Zhan, W. Tomizuka, M. “Double-Iterative Gaussian Process Regression
+for Modeling Error Compensation in Autonomous Racing” IFAC World Congress, 2023.  Available at: [arxiv.org/abs/2305.07740](https://arxiv.org/abs/2305.07740). Related Project: [link](https://cwj22.github.io/control.html)
+7. Bird, T., **Weaver, C.**, and Jain, N. “Switched Linear Model of a Stratified Hot Water Tank for Control of
 Micro-CHP Systems” Proceedings of the ASME 2019 Dynamic Systems and Control Conference, ASME, 2019
-October 9-12, Park City, UT. (Energy Systems Technical Committee Best Paper Award). [Related project](https://cwj22.github.io/projects/dmp.html)
+October 9-12, Park City, UT. (Energy Systems Technical Committee Best Paper Award). Available at: [https://arxiv.org/abs/2305.07740](https://doi.org/10.1115/DSCC2019-9236)
 
 ### Masters Report
-5. **Weaver, C.** and Tomizuka M. “Racing strategy analysis via Bayesian Nonparametric Segmentation and Functional Clustering and Alignment,” Masters Report submitted in fullfilment of M.S. Degree. UC Berkeley, 2021. [Project description](https://cwj22.github.io/projects/hdphmm.html)
+5. **Weaver, C.** and Tomizuka M. “Racing strategy analysis via Bayesian Nonparametric Segmentation and Functional Clustering and Alignment,” Masters Report submitted in fullfilment of M.S. Degree. UC Berkeley, 2021. [Project description](https://cwj22.github.io/projects/masters.html)
 
 ### Poster Sessions and Presentations
 6. **Weaver, C.** “Control of Autonomous Racecars” Talk presented at Finding your Research Pathway Seminar,
 Mechanical Engineering Department, UC Berkeley, 2021 April.
 7. **Weaver, C.** and Hao, C. “Trajectory Planning and Model-Predictive Control of Autonomous Racing
-Vehicles” Presentation at NorCal Control Workshop, 2021 January 22, virtual (via Stanford University). [Related project](https://cwj22.github.io/projects/mpc.html)
+Vehicles” Presentation at NorCal Control Workshop, 2021 January 22, virtual (via Stanford University). 
 8. **Weaver, C.**, and Jain, N. “Rule-Based Control of Micro-Combined Heat and Power Systems.” Poster session
 presented at: Undergraduate Expo, International Mechanical Engineering Congress and Exposition, ASME,
-2018 November 12; Pittsburgh, PA. [Project description](https://cwj22.github.io/projects/dmp.html)
+2018 November 12; Pittsburgh, PA. 
