@@ -8,15 +8,18 @@ permalink: /control
 ### <span style="color:#7030A0;">Dynamic Movement Primitives <a href="https://sites.google.com/berkeley.edu/racingdmp/home">(Project Website)</a></span>
 
 <div class="prof-head" style="margin-left:0px;color:#7030A0;">
-<b>Skill-Critic</b>: Refining Learned Skills for Hierarchical Reinforcement Learning
+Real-time Trajectory Generation via Imitation Learning of Dynamic Movement Primitives for Autonomous Racing
 </div>
 <blockquote>
-Our Skill-Critic algorithm optimizes both the low and high-level policies of a hierarchial agent, AND these policies are  initialized and regularized by a latent space learned from offline demonstrations to guide the joint policy optimization. We validate our approach in multiple sparse RL environments, including a new sparse reward autonomous racing task in Gran Turismo Sport. The experiments show that Skill-Critic's low-level policy fine-tuning and demonstration-guided regularization are essential for optimal performance.
+We employ sequences of motion primitives for real-time trajectory planning in racecar control with Dynamic Movement Primitives (DMPs).  We introduce the Acceleration goal (Acc. goal) DMP, extending the DMP's target system to accommodate accelerating targets. When sequencing DMPs to model long trajectories, our (Acc. goal DMP explicitly models acceleration at the junctions where one DMP meets its successor in the sequence. Applicable to DMP weights learned by any method, the proposed DMP generates trajectories with less aggressive acceleration and jerk during transitions between DMPs compared to second-order DMPs. Our proposed DMP sequencing method can recover from trajectory deviations, achieve competitive lap times, and maintain stable control in autonomous vehicle racing within the high-fidelity racing game Gran Turismo Sport.
 </blockquote>
 
 <div style="display:flex;justify-content:space-between;align-items:center">
-<img src="projects/skillcritic.svg" height='200' alt="projects"> <img src="projects/trajectory_animation.gif" height='350' alt="projects">
+<img src="projects/skillcritic.svg" height='200' alt="projects"> <iframe width="562" height="337" src="https://www.youtubeeducation.com/embed/8_GEzYPwz4s" title="Real-time Trajectory Generation via Dynamic Movement Primitives for Autonomous Racing" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
+
+
+
 
 #### <span style="color:#7030A0;">Highlight of my Contributions:</span>
 
