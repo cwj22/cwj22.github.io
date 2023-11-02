@@ -26,7 +26,7 @@ Our Skill-Critic algorithm optimizes both the low and high-level policies of a h
 - Theoretically justified the use of inter-related Q functions to improve performance of the low-level policy by incorporating the value assigned by high-level skills
 - Summarized the results of the research in the paper and actively engaged in a rebuttal to refine and defend the research
 
-Visit the <span style="font-size:14pt;color:#7030A0;" class="emoji-text">🔗</span> <a href="https://sites.google.com/view/skill-critic">Project Website</a> for the code and manuscript, videos, and more information about this project.
+#### <span style="color:#7030A0;">Visit the <span style="font-size:14pt;color:#7030A0;" class="emoji-text">🔗</span> <a href="https://sites.google.com/view/skill-critic">Project Website</a> for the code and manuscript, videos, and more information about this project.</span>
 
 
 
@@ -57,6 +57,6 @@ We first verify that AIL can train a high performing (i.e. low lap time) policy 
 - Experiment design and execution, including design of configuration files to handle all baseline and hyperparameter choices
 - Currently finalizing paper manuscript for submission
 
-Please stay tuned for a project website and paper manuscript. Initial draft available by request under select circumstances.
+#### <span style="color:#ec008c;">Please stay tuned for a project website and paper manuscript. </span>
 
 
