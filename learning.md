@@ -15,9 +15,9 @@ permalink: /learning
 Our Skill-Critic algorithm optimizes both the low and high-level policies of a hierarchial agent, AND these policies are  initialized and regularized by a latent space learned from offline demonstrations to guide the joint policy optimization. We validate our approach in multiple sparse RL environments, including a new sparse reward autonomous racing task in Gran Turismo Sport. The experiments show that Skill-Critic's low-level policy fine-tuning and demonstration-guided regularization are essential for optimal performance.
 </blockquote>
 
-Visit the <span style="font-size:14pt;color:" class="emoji-text">🔗</span> <a href="https://sites.google.com/view/skill-critic">Project Website</a> for code, videos, and more information about this project.
-
-<img src="projects/skillcritic.svg" height='200' alt="projects"> <img src="projects/trajectory_animation.gif" height='250' alt="projects">
+<div style="display:flex;justify-content:space-between">
+<img src="projects/skillcritic.svg" height='200' alt="projects"> <img src="projects/trajectory_animation.gif" height='300' alt="projects">
+</div>
 
 #### Highlight of my Contributions:
 
@@ -26,3 +26,4 @@ Visit the <span style="font-size:14pt;color:" class="emoji-text">🔗</span> <a 
 - Theoretically justified the use of inter-related Q functions to improve performance of the low-level policy by incorporating the value assigned by high-level skills
 - Summarized the results of the research in the paper and actively engaged in a rebuttal to refine and defend the research
 
+Visit the <span style="font-size:14pt;color:" class="emoji-text">🔗</span> <a href="https://sites.google.com/view/skill-critic">Project Website</a> for the code and manuscript, videos, and more information about this project.
