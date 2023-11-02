@@ -61,9 +61,9 @@ We first verify that AIL can train a high performing (i.e. low lap time) policy 
 
 <br>
 
-### <span style="color:#b2ce13;">Learning with Human Feedback and Preferences</span>
+### <span style="color:#00adef;">Learning with Human Feedback and Preferences</span>
 
-<div class="prof-head" style="margin-left:0px;color:#b2ce13;">
+<div class="prof-head" style="margin-left:0px;color:#00adef;">
 <b>Racing Metric</b>:  Systematic Trajectory Evaluation from Human Feedback and Preferences
 </div>
 <blockquote>
@@ -74,13 +74,13 @@ We are inspired by the recent success of reinforcement learning from human prefe
 
 </blockquote>
 
-#### <span style="color:#b2ce13;">Ongoing areas of invesitigation:</span>
+#### <span style="color:#00adef;">Ongoing areas of invesitigation:</span>
 - Trajectory filtering and identification of important moments
 - Reinforcement learning from human preferences 
 - Preference transformer, which uses sequence modeling to model non-Markovian human preferences
 
 
-#### <span style="color:#b2ce13;">Highlight of my Contributions:</span>
+#### <span style="color:#00adef;">Highlight of my Contributions:</span>
 
 - Collection of human demonstrations and data analysis and filering to examine important moments
 - Creation of diverse AI agents that exhibit different types of sportsmanship behavior
