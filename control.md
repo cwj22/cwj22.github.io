@@ -19,7 +19,10 @@ We employ sequences of motion primitives for real-time trajectory planning in ra
 </div>
 
 
-<iframe width="562" height="337" src="https://www.youtubeeducation.com/embed/JLMbpiywVxQ" title="Real-time Trajectory Generation via Dynamic Movement Primitives for Autonomous Racing" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="562" height="337" src="https://www.youtubeeducation.com/embed/JLMbpiywVxQ?modestbranding=1&autohide=1&showinfo=0&controls=1&rel=0" title="Real-time Trajectory Generation via Dynamic Movement Primitives for Autonomous Racing" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8_GEzYPwz4s?modestbranding=1&autohide=1&showinfo=0&controls=1&rel=0" frameborder="0" allowfullscreen></iframe>
+
 
 #### <span style="color:#7030A0;">Highlight of my Contributions:</span>
 
