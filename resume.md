@@ -6,6 +6,6 @@ permalink: /resume
 
 ## Resume
 
-<a href="CV_Catherine_Weaver.pdf" target="_blank">Download</a>
+<a href="Catherine_Weaver_CV.pdf" target="_blank">Download</a>
 
-<object data="CV_Catherine_Weaver.pdf" width="1000" height="1000" type='application/pdf'/> 
+<object data="Catherine_Weaver_CV.pdf" width="1000" height="1000" type='application/pdf'/> 
