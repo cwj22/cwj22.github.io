@@ -46,7 +46,7 @@ We first verify that AIL can train a high performing (i.e. low lap time) policy 
 </blockquote>
 
 <div style="display:flex;justify-content:space-between;align-items:center">
-<img src="projects/transformerassisted.svg" height='200' alt="projects"> <img src="projects/finishedlaps.svg" height='350' alt="projects">
+<img src="projects/transformerassisted.svg" height='350' alt="projects"> <img src="projects/finishedlaps.svg" height='350' alt="projects">
 </div>
 
 #### <span style="color:#ec008c;">Highlight of my Contributions:</span>
