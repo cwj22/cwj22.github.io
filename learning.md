@@ -32,7 +32,7 @@ Visit the <span style="font-size:14pt;color:#7030A0;" class="emoji-text">🔗</s
 
 ### <span style="color:#ec008c;">Imitation Learning from Human Demonstrations</span>
 
-<div class="prof-head" style="margin-left:0px;color:#7030A0;">
+<div class="prof-head" style="margin-left:0px;color:#ec008c;">
 <b>BeT-AIL</b>:  Behavior Transformer-Assisted Adversarial Imitation Learning from Human  Gameplay
 </div>
 <blockquote>
@@ -49,13 +49,14 @@ We first verify that AIL can train a high performing (i.e. low lap time) policy 
 <img src="projects/transformerassisted.svg" height='200' alt="projects"> <img src="projects/finishedlaps.svg" height='350' alt="projects">
 </div>
 
-#### <span style="color:#7030A0;">Highlight of my Contributions:</span>
+#### <span style="color:#ec008c;">Highlight of my Contributions:</span>
 
 - Full development of the BeT-AIL algorithm, including decision to use the Behavior Transformer, residual policy, and adversarial imitation learning
 - Adaptation of existing code-bases to include residual policy, multiple different types of regularization on the discriminator network, and extended features in PPO and SAC algorithms 
 - Code implementation of gym environment and calculation of track-related state features for both demonstrations and environment
 - Experiment design and execution, including design of configuration files to handle all baseline and hyperparameter choices
+- Currently finalizing paper manuscript for submission
 
-Stay tuned for a project website and paper manuscript.
+Please stay tuned for a project website and paper manuscript. Initial draft available by request under select circumstances.
 
 
