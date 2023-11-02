@@ -51,5 +51,3 @@ Links
 </div> -->
 
 
-## Skill Critic Hierarchical RL
-  <a href="https://sites.google.com/view/skill-critic">Website</a>
