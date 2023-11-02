@@ -6,7 +6,7 @@ permalink: /learning
 
 <img src="projects/part2.svg" height='200' alt="projects">
 
-### <span style="color:#7030A0;">Sparse Reward Reinforcement Learning</span>
+### <span style="color:#7030A0;">Sparse Reward Reinforcement Learning  <a href="https://sites.google.com/view/skill-critic">(Project Website)</a></span>
 
 <div class="prof-head" style="margin-left:0px">
 <b>Skill-Critic</b>: Refining Learned Skills for Hierarchical Reinforcement Learning
@@ -27,3 +27,7 @@ Our Skill-Critic algorithm optimizes both the low and high-level policies of a h
 - Summarized the results of the research in the paper and actively engaged in a rebuttal to refine and defend the research
 
 Visit the <span style="font-size:14pt;color:#7030A0;" class="emoji-text">🔗</span> <a href="https://sites.google.com/view/skill-critic">Project Website</a> for the code and manuscript, videos, and more information about this project.
+
+
+
+### <span style="color:#7030A0;">Imitation Learning from Human Demonstrations</span>
