@@ -43,7 +43,7 @@ Engineering Co-op | [Zimmer Biomet](https://www.zimmerbiomet.com/en) -->
 - Showed leadership and long-term vision when <span style="color:#F3B507;"><b><i>mentoring 4 graduate students</i></b></span> visiting from other universities that resulted in multiple publications and continuous improvement of a unified control system
 
 <br>
-<div style="display: flex; vertical-align:bottom; justify-content: space-between;line-height: 45pt;">
+<div style="display: flex; vertical-align:bottom; justify-content: space-between;">
     <div style="display: flex; vertical-align:bottom;">
         <img src="professional/sony.svg" height='20' alt="Sony AI">
         <div class="prof-head">
@@ -59,7 +59,7 @@ Engineering Co-op | [Zimmer Biomet](https://www.zimmerbiomet.com/en) -->
 - Merged multiple branches with new features to a Github repository with 30+ contributors and wrote code that adhered to <span style="color:#D2007B;"><b><i> unit testing, typing,</i></b></span>  and <span style="color:#D2007B;"><b><i> style</i></b></span>  requirements to pass peer and manager code reviews
 
 <br>
-<div style="display: flex; vertical-align:bottom; justify-content: space-between; line-height: 45pt;">
+<div style="display: flex; vertical-align:bottom; justify-content: space-between;">
     <div style="display:flex; vertical-align:bottom;">
         <img src="professional/zb.png" height='40' alt="Zimmer Biomet">
         <div class="prof-head" style="vertical-align:bottom;">
