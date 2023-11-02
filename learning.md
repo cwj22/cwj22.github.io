@@ -24,7 +24,7 @@ Our Skill-Critic algorithm optimizes both the low and high-level policies of a h
 - Derived the theoretical framework that extended the discrete options-based semi-MDP framework to encompass <i>skills</i>, which employ a continuous latent space and fixed time horizons
 - Extended the skill-based semi-MDP formulation to a framework of two augmented MDPs so that the high-level and low-level policies could be optimized in parallel
 - Theoretically justified the use of inter-related Q functions to improve performance of the low-level policy by incorporating the value assigned by high-level skills
-- Summarized the results of the research in the paper and actively engaged in a rebuttal to refine and defend the research
+- Primary writer of the manuscript and any rebuttals where I refined and defended the research
 <br>
 
 #### <span style="color:#7030A0;">Visit the <span style="font-size:14pt;color:#7030A0;" class="emoji-text">🔗</span> <a href="https://sites.google.com/view/skill-critic">Project Website</a> for the code and manuscript, videos, and more information about this project.</span>
@@ -56,7 +56,7 @@ We first verify that AIL can train a high performing (i.e. low lap time) policy 
 - Adaptation of existing code-bases to include residual policy, multiple different types of regularization on the discriminator network, and extended features in PPO and SAC algorithms 
 - Code implementation of gym environment and calculation of track-related state features for both demonstrations and environment
 - Experiment design and execution, including design of configuration files to handle all baseline and hyperparameter choices
-- Currently finalizing paper manuscript for submission
+- Currently finalizing paper manuscript for submission as corresponding author
 <br>
 
 #### <span style="color:#ec008c;">Please stay tuned for a project website and paper manuscript. </span>

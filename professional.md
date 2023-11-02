@@ -25,7 +25,7 @@ Graduate Student Researcher | [Mechanical Systems Control Laboratory](https://ms
 
 Engineering Co-op | [Zimmer Biomet](https://www.zimmerbiomet.com/en) -->
 <div style="display: flex; align-items: center; justify-content: space-between;">
-    <div style="display: flex; align-items: center;">
+    <div style="display: flex; vertical-align:bottom;">
         <img src="professional/msc.jpg" height='40' alt="MSC">
         <div class="prof-head">
         <p> Graduate Student Researcher |<span class="date-head"> Aug. 2019 - Present (4.5 years) </span></p>
@@ -44,7 +44,7 @@ Engineering Co-op | [Zimmer Biomet](https://www.zimmerbiomet.com/en) -->
 
 <br>
 <div style="display: flex; align-items: center; justify-content: space-between;">
-    <div style="display: flex; align-items: center;">
+    <div style="display: flex; vertical-align:bottom;">
         <img src="professional/sony.svg" height='20' alt="Sony AI">
         <div class="prof-head">
         <p> Research Scientist Intern |<span class="date-head"> May - Dec. 2021 (7 months) </span></p>
