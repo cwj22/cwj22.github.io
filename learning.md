@@ -11,6 +11,7 @@ permalink: /learning
 <div class="prof-head" style="margin-left:0px;color:#7030A0;">
 <b>Skill-Critic</b>: Refining Learned Skills for Hierarchical Reinforcement Learning
 </div>
+<br><br>
 <blockquote>
 Our Skill-Critic algorithm optimizes both the low and high-level policies of a hierarchial agent, AND these policies are  initialized and regularized by a latent space learned from offline demonstrations to guide the joint policy optimization. We validate our approach in multiple sparse RL environments, including a new sparse reward autonomous racing task in Gran Turismo Sport. The experiments show that Skill-Critic's low-level policy fine-tuning and demonstration-guided regularization are essential for optimal performance.
 </blockquote>
@@ -40,6 +41,7 @@ Our Skill-Critic algorithm optimizes both the low and high-level policies of a h
 <div class="prof-head" style="margin-left:0px;color:#ec008c;">
 <b>BeT-AIL</b>:  Behavior Transformer-Assisted Adversarial Imitation Learning from Human  Gameplay
 </div>
+<br><br>
 <blockquote>
 Our Behavior Transformer-Assisted Adversarial Imitation Learning (BeT-AIL) method leverages BeT sequence modeling and online AIL fine-tuning to learn human-like motion from demonstrations.
 We first verify that AIL can train a high performing (i.e. low lap time) policy in GT Sport, even when those demonstrations are collected at different control frequency and the agent's action is delayed due to real-time computation. However, AIL alone does not capture the non-Markovian decision making strategy of humans, and the AIL policy exhibits shaky behavior when analyzing the change in action commands. Therefore, we model real human players as using sequential decision-making with the Behavior Transformer (BeT) and restrict an AIL residual policy to make only minor adjustments to the BeT policy. The contributions are:
@@ -77,6 +79,7 @@ We first verify that AIL can train a high performing (i.e. low lap time) policy 
 <div class="prof-head" style="margin-left:0px;color:#00adef;">
 <b>Racing Metric</b>:  Systematic Trajectory Evaluation from Human Feedback and Preferences
 </div>
+<br><br>
 <blockquote>
 This is an <b>ongoing research project</b> in which we plan to investigate how we can learn racing metrics from human feedback. We will explore how to learn metrics for evaluating racing performance from human feedback, so that the learned metrics are consistent with human values from various aspects (e.g., sportsmanship), which are highly difficult to model with manually designed reward/cost functions. The learned metrics can serve as reward functions for training RL policies, cost functions for model-based optimal controller, and evaluation metrics for a principled and fair benchmark of all categories of autonomous racing algorithms. 
 
