@@ -3,7 +3,7 @@ layout: custom
 permalink: /control
 ---
 
-## Data-Driven Methods for Control \& Planning
+## Data-Driven Methods for Control & Planning
 
 ### <span style="color:#7030A0;">Trajectory Planning with Dynamic Movement Primitives <a href="https://sites.google.com/berkeley.edu/racingdmp/home">(Project Website)</a></span>
 
