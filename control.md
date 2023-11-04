@@ -33,12 +33,25 @@ We employ sequences of motion primitives for real-time trajectory planning in ra
 <br>
 <br>
 
+#### <span style="color:#7030A0;">Related Publications:</span>
+
+1. **Weaver, C.**,  Capobianco, R., Wurman, P., Stone, P., Masayoshi, T. “Real-time Trajectory Generation via Imitation Learning of Dynamic Movement Primitives for Autonomous Racing” American Control Conference, 2024. <span style="color:#f68712;"><i>Awaiting Review.</i></span> Available at: [sites.google.com/berkeley.edu/racingdmp/home](https://sites.google.com/berkeley.edu/racingdmp/home). 
+<br>
+<br>
+
 #### <span style="color:#7030A0;">Visit the <span style="font-size:14pt;color:#7030A0;" class="emoji-text">🔗</span> <a href="https://sites.google.com/berkeley.edu/racingdmp/home">Project Website</a> for the manuscript, videos, and more information about this project.</span>
 
 
 <br>
 
 ### <span style="color:#ec008c;">Data-Driven Model Predictive Control for Autonmous Racing</span>
+
+
+#### <span style="color:#ec008c;">Related Publictions:</span>
+1. Benciolini, T., Tang, C., Leibold, M., **Weaver, C.**,  Tomizuka, M., Zhan, W. “Active Exploration in Iterative Gaussian Process Regression for Uncertainty Compensation in Autonomous Racing.” IEEE Transactions on Control Systems Technology. 2023. <span style="color:#f68712;"><i>Awaiting Review.</i></span>
+2. Hao, C., Tang, C., Bergkvist, E., **Weaver, C.**, Sun, L., Zhan, W., Tomizuka, M. “Outracing Human Racers: Model-based Trajectory Planning and Control for Time-trial Autonomous Racing” IEEE Transactions on Intelligent Vehicles. <span style="color:#f68712;"><i>Awaiting Review.</i></span> Available at: [arxiv.org/abs/2211.09378](https://arxiv.org/abs/2211.09378). 
+3. Su,. S., Hao, C., **Weaver, C.**, Tang, C., Zhan, W. Tomizuka, M. “Double-Iterative Gaussian Process Regression
+for Modeling Error Compensation in Autonomous Racing” IFAC World Congress, 2023.  Available at: [arxiv.org/abs/2305.07740](https://arxiv.org/abs/2305.07740). 
 
 <div class="prof-head" style="margin-left:0px;color:#ec008c;">
 Outracing Human Racers: Model-based Trajectory Planning and Control
