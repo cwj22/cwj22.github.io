@@ -27,6 +27,10 @@ Our Skill-Critic algorithm optimizes both the low and high-level policies of a h
 - Primary writer of the manuscript and any rebuttals where I refined and defended the research
 <br>
 
+#### <span style="color:#7030A0;">Related Publications:</span>
+1. Hao, C.\*, **Weaver, C.\* (\*Equal Contribution)**, Tang, C., Kawamoto, K., Tomizuka, M. Zhan, W. “Skill-Critic: Refining Learned Skills for Reinforcement Learning”, IEEE Robotics and Automation Letters 2023. <span style="color:#f68712;"><i>Awaiting Review.</i></span> Available at:   [sites.google.com/view/skill-critic](https://sites.google.com/view/skill-critic). Related Project: [link](https://cwj22.github.io/learning.html)
+<br>
+
 #### <span style="color:#7030A0;">Visit the <span style="font-size:14pt;color:#7030A0;" class="emoji-text">🔗</span> <a href="https://sites.google.com/view/skill-critic">Project Website</a> for the code and manuscript, videos, and more information about this project.</span>
 
 
@@ -57,6 +61,11 @@ We first verify that AIL can train a high performing (i.e. low lap time) policy 
 - Code implementation of gym environment and calculation of track-related state features for both demonstrations and environment
 - Experiment design and execution, including design of configuration files to handle all baseline and hyperparameter choices
 - Currently finalizing paper manuscript for submission as corresponding author
+<br>
+
+#### <span style="color:#ec008c;">Related Publications:</span>
+
+1. **Weaver, C.**, Tang, C., Hao, C., Kawamoto, K., Tomizuka, M. Zhan, W. “Transformer-Assisted Adversarial Imitation Learning for Autonomous Racing.” <span style="color:#f68712;"><i>Under Preparation.</i></span>
 <br>
 
 #### <span style="color:#ec008c;">Please stay tuned for a project website and paper manuscript. </span>
