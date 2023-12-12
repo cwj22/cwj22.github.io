@@ -36,10 +36,10 @@ Our Skill-Critic algorithm optimizes both the low and high-level policies of a h
 
 
 <br>
-### <span style="color:#ec008c;">Imitation Learning from Human Demonstrations</span>
+### <span style="color:#ec008c;">Imitation Learning from Human Demonstrations <a href="https://sites.google.com/berkeley.edu/betail/home">(Project Website)</a></span>
 
 <div class="prof-head" style="margin-left:0px;color:#ec008c;">
-<b>BeT-AIL</b>:  Behavior Transformer-Assisted Adversarial Imitation Learning from Human  Gameplay
+<b>BeTAIL</b>:  Behavior Transformer-Assisted Adversarial Imitation Learning from Human  Gameplay
 </div>
 <br>
 <blockquote>
@@ -70,7 +70,7 @@ We first verify that AIL can train a high performing (i.e. low lap time) policy 
 1. **Weaver, C.**, Tang, C., Hao, C., Kawamoto, K., Tomizuka, M. Zhan, W. “Transformer-Assisted Adversarial Imitation Learning for Autonomous Racing.” <span style="color:#f68712;"><i>Under Preparation.</i></span>
 <br><br>
 
-#### <span style="color:#ec008c;">Please stay tuned for a project website and paper manuscript. </span>
+#### <span style="color:#7030A0;">Visit the <span style="font-size:14pt;color:#7030A0;" class="emoji-text">🔗</span> <a href="https://sites.google.com/berkeley.edu/betail/home">Project Website</a> for the code and manuscript, videos, and more information about this project.</span>
 
 <br>
 
