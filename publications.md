@@ -16,14 +16,15 @@ for Modeling Error Compensation in Autonomous Racing” IFAC World Congress, 202
 Micro-CHP Systems” Proceedings of the ASME 2019 Dynamic Systems and Control Conference, ASME, 2019
 October 9-12, Park City, UT. (Energy Systems Technical Committee Best Paper Award). Available at: [https://arxiv.org/abs/2305.07740](https://doi.org/10.1115/DSCC2019-9236)
 
-### Masters Report
-5. **Weaver, C.** and Tomizuka M. “Racing strategy analysis via Bayesian Nonparametric Segmentation and Functional Clustering and Alignment,” Masters Report submitted in fullfilment of M.S. Degree. UC Berkeley, 2021. [Project description](https://cwj22.github.io/projects/masters.html)
+### Dissertation and Masters Report
+- **Weaver, C.** and Tomizuka M. “Data-Driven Methods for Real-Time Control in Autonomous Racing Games,” Disseration <span style="color:#f68712;"><i>to be submitted</i></span> in fullfilment of Ph.D. Degree. UC Berkeley, 2024.
+-  **Weaver, C.** and Tomizuka M. “Racing strategy analysis via Bayesian Nonparametric Segmentation and Functional Clustering and Alignment,” Masters Report submitted in fullfilment of M.S. Degree. UC Berkeley, 2021. [Project description](https://cwj22.github.io/projects/masters.html)
 
 ### Poster Sessions and Presentations
-6. **Weaver, C.** “Control of Autonomous Racecars” Talk presented at Finding your Research Pathway Seminar,
+- **Weaver, C.** “Control of Autonomous Racecars” Talk presented at Finding your Research Pathway Seminar,
 Mechanical Engineering Department, UC Berkeley, 2021 April.
-7. **Weaver, C.** and Hao, C. “Trajectory Planning and Model-Predictive Control of Autonomous Racing
+- **Weaver, C.** and Hao, C. “Trajectory Planning and Model-Predictive Control of Autonomous Racing
 Vehicles” Presentation at NorCal Control Workshop, 2021 January 22, virtual (via Stanford University). 
-8. **Weaver, C.**, and Jain, N. “Rule-Based Control of Micro-Combined Heat and Power Systems.” Poster session
+- **Weaver, C.**, and Jain, N. “Rule-Based Control of Micro-Combined Heat and Power Systems.” Poster session
 presented at: Undergraduate Expo, International Mechanical Engineering Congress and Exposition, ASME,
 2018 November 12; Pittsburgh, PA. 
