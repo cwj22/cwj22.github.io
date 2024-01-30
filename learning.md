@@ -39,17 +39,11 @@ Our Skill-Critic algorithm optimizes both the low and high-level policies of a h
 ### <span style="color:#ec008c;">Imitation Learning from Human Demonstrations <a href="https://sites.google.com/berkeley.edu/betail/home">(Project Website)</a></span>
 
 <div class="prof-head" style="margin-left:0px;color:#ec008c;">
-<b>BeTAIL</b>:  Behavior Transformer-Assisted Adversarial Imitation Learning from Human  Gameplay
+<b>BeTAIL</b>:  Behavior Transformer Adversarial Imitation Learning from Human Racing Gameplay
 </div>
 <br>
 <blockquote>
-Our Behavior Transformer-Assisted Adversarial Imitation Learning (BeT-AIL) method leverages BeT sequence modeling and online AIL fine-tuning to learn human-like motion from demonstrations.
-We first verify that AIL can train a high performing (i.e. low lap time) policy in GT Sport, even when those demonstrations are collected at different control frequency and the agent's action is delayed due to real-time computation. However, AIL alone does not capture the non-Markovian decision making strategy of humans, and the AIL policy exhibits shaky behavior when analyzing the change in action commands. Therefore, we model real human players as using sequential decision-making with the Behavior Transformer (BeT) and restrict an AIL residual policy to make only minor adjustments to the BeT policy. The contributions are:
-<ul>
-    <li>We propose a residual AIL policy to fine-tune the BeT policy; the BeT policy models multi-step decision making, and the residual policy adjusts for state distribution shift and differences in the demonstrated trajectories and the agent's environment</li>
-    <li>We show a small residual policy allows BeT-AIL to closely match non-Markovian patterns in human demonstrations while still significantly improving online performance</li>
-    <li>We learn an autonomous racing policy solely from trajectories from real human gameplay in Gran Turismo (GT) Sport.</li>
-</ul>
+Recent successes in autonomous racing leverage reinforcement learning; however, imitation learning is a promising alternative for learning from human demonstrations without requiring hand-designed rewards. However, learning a racing strategy from human demonstrations is difficult due to the unknown decision-making process and complex environment. Sequence modeling is a powerful non-Markovian approach, but offline learning struggles to overcome distribution shifts and adapt to new environments. Adversarial Imitation Learning (AIL) can mitigate this effect; however, AIL can be sample inefficient and may fail to model human decision-making with Markovian policies. To capture the benefits of both approaches, we propose BeT-AIL: Behavior Transformer-Assisted Adversarial Imitation Learning. BeT-AIL employs BeT to learn a non-Markovian policy from human demonstrations, and an added residual policy corrects BeT policy errors. The residual policy is trained with AIL to match the state occupancy in online rollouts with the state occupancy of demonstrations. We test BeT-AIL on three challenges with expert-level demonstrations from real human gameplay in the high-fidelity racing simulator Gran Turismo Sport.  First, the BeT and residual policy are trained on the same demonstrations and track, and BeT-AIL outperforms standalone BeT and AIL. Then, the BeT policy is pretrained on one or more tracks, and BeT-AIL fine-tunes the policy on unseen tracks with limited demonstrations.  In all three challenges, BeT-AIL reduces the necessary environment interactions and improves racing performance or stability, even when the BeT is pretrained on different tracks. 
 </blockquote>
 
 <div style="display:flex;justify-content:space-between;align-items:center">
@@ -58,7 +52,7 @@ We first verify that AIL can train a high performing (i.e. low lap time) policy 
 
 #### <span style="color:#ec008c;">Highlight of my Contributions:</span>
 
-- Full development of the BeT-AIL algorithm, including decision to use the Behavior Transformer, residual policy, and adversarial imitation learning
+- Full development of the BeTAIL algorithm, including decision to use the Behavior Transformer, residual policy, and adversarial imitation learning
 - Adaptation of existing code-bases to include residual policy, multiple different types of regularization on the discriminator network, and extended features in PPO and SAC algorithms 
 - Code implementation of gym environment and calculation of track-related state features for both demonstrations and environment
 - Experiment design and execution, including design of configuration files to handle all baseline and hyperparameter choices
@@ -67,7 +61,7 @@ We first verify that AIL can train a high performing (i.e. low lap time) policy 
 
 #### <span style="color:#ec008c;">Related Publications:</span>
 
-1. **Weaver, C.**, Tang, C., Hao, C., Kawamoto, K., Tomizuka, M. Zhan, W. “Transformer-Assisted Adversarial Imitation Learning for Autonomous Racing.” <span style="color:#f68712;"><i>Under Preparation.</i></span>
+1. **Weaver, C.**, Tang, C., Hao, C., Kawamoto, K., Tomizuka, M. Zhan, W. “BeTAIL: Behavior Transformer Adversarial Imitation Learning from Human Racing Gameplay.” IEEE Robotics and Automation Letters. <span style="color:#f68712;"><i>Awaiting Review</i></span>. Available at: [sites.google.com/berkeley.edu/betail](https://sites.google.com/berkeley.edu/betail) Related Project: [link](https://cwj22.github.io/learning.html)
 <br><br>
 
 #### <span style="color:#7030A0;">Visit the <span style="font-size:14pt;color:#7030A0;" class="emoji-text">🔗</span> <a href="https://sites.google.com/berkeley.edu/betail/home">Project Website</a> for the code and manuscript, videos, and more information about this project.</span>
