@@ -22,7 +22,7 @@ layout: custom
 <div class="colored-block" style="margin-bottom: 10px;background-color:white;color: black">
   <div class="container">
 <div class="column1">
-<h2><p style="text-align: center;color:black;line-height: 90px" class="emoji-text">📰<h2 style="color:white;text-align:center">News</h2></p></h2></div>
+<h2><p style="text-align: center;color:black;line-height: 90px" class="emoji-text">📰<h2 style="color:black;text-align:center">News</h2></p></h2></div>
     <div class="column2">
 <p>
 <ul>
