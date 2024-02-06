@@ -18,6 +18,16 @@ layout: custom
 </div>
 <!-- style="margin-top: 0pt;" -->
 
+<!-- ## About Me -->
+<div class="colored-block-grey" style="margin-bottom: 10px;">
+  <div class="container">
+<div class="column1">
+<h2><p style="text-align: center;color:white;line-height: 90px" class="emoji-text">📰<h2 style="color:white;text-align:center">News</h2></p></h2></div>
+ Feb 2024: My co-first author paper "Skill-Critic: Refining Learned Skills for Reinforcement Learning" was accepted for publication in IEEE's Robotic and Automation Letters. 
+ Jan 2024: My first author paper "Real-time Trajectory Generation via Imitation Learning of Dynamic Movement Primitives for Autonomous Racing" was accepted to the 2024 American Control Conference. 
+</div>
+</div>
+
 <div class="container">
     <div class="column">
         <h2><p style="text-align: center;color:#7030A0;" class="emoji-text">🎓</p><p style="text-align: center;color:#7030A0;">Education</p></h2>
