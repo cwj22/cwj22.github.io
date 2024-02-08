@@ -9,7 +9,6 @@ layout: custom
 <div class="column2">
 <p>
 <ul>
-  <li> Check out my presentation slides here: </li>
 <li> Future Ph.D. from UC Berkeley developing <b>state-of-the-art machine learning and control</b> algorithms for continuous time systems </li>
 <li>Experience pushing the limits of artificial intelligence with <b>high-quality, highly-collaborative code at Sony AI </b></li>
 <li>Over two years of cumulative experience in industry in control systems, computer science, product development, and manufacturing </li>
@@ -27,6 +26,7 @@ layout: custom
     <div class="column2">
 <p>
 <ul>
+    <li> <b>Check out my presentation slides <a href="https://docs.google.com/presentation/d/1Y6Vj_v1uuiLHEeE0g7KMqG34hXPShG1k/edit?usp=sharing&ouid=102548706033976596863&rtpof=true&sd=true">(HERE)</a> [here]() </b></li>
 <li> Feb 2024: My co-first author paper "Skill-Critic: Refining Learned Skills for Reinforcement Learning" was accepted for publication in IEEE's Robotic and Automation Letters.  </li>
 <li> Jan 2024: My first author paper "Real-time Trajectory Generation via Imitation Learning of Dynamic Movement Primitives for Autonomous Racing" was accepted to the 2024 American Control Conference. </li>
 </ul></p>
