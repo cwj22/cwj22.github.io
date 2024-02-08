@@ -9,6 +9,7 @@ layout: custom
 <div class="column2">
 <p>
 <ul>
+  <li> Check out my presentation slides here: </li>
 <li> Future Ph.D. from UC Berkeley developing <b>state-of-the-art machine learning and control</b> algorithms for continuous time systems </li>
 <li>Experience pushing the limits of artificial intelligence with <b>high-quality, highly-collaborative code at Sony AI </b></li>
 <li>Over two years of cumulative experience in industry in control systems, computer science, product development, and manufacturing </li>
