@@ -26,7 +26,6 @@ layout: custom
     <div class="column2">
 <p>
 <ul>
-    <li> <b>Check out my presentation slides <a href="https://docs.google.com/presentation/d/1Y6Vj_v1uuiLHEeE0g7KMqG34hXPShG1k/edit?usp=sharing&ouid=102548706033976596863&rtpof=true&sd=true">(HERE)</a> </b></li>
 <li> Feb 2024: My co-first author paper "Skill-Critic: Refining Learned Skills for Reinforcement Learning" was accepted for publication in IEEE's Robotic and Automation Letters.  </li>
 <li> Jan 2024: My first author paper "Real-time Trajectory Generation via Imitation Learning of Dynamic Movement Primitives for Autonomous Racing" was accepted to the 2024 American Control Conference. </li>
 </ul></p>
@@ -53,7 +52,7 @@ layout: custom
         </ul></p>
         <p> -->
     <b>Ph.D. Mechanical Engineering</b><br>
-    <i>University of California, Berkeley</i> | May 2023 <br>
+    <i>University of California, Berkeley</i> | May 2024 <br>
     <ul>
         <li>PI: Masayoshi Tomizuka</li>
         <li>Minors: AI & Optimization</li>
